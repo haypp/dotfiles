@@ -1,0 +1,3404 @@
+: 1648983271:0;clear
+: 1648983301:0;yain qogir-gtk-theme tela-icon-theme
+: 1648984851:0;yain tela-icon-theme
+: 1648985076:0;git clone https://github.com/vinceliuice/Tela-circle-icon-theme.git
+: 1648985175:0;neofetch
+: 1648985181:0;steam
+: 1648985374:0;brave
+: 1648985605:0;omz update
+: 1648985613:0;gcl
+: 1648985616:0;clear
+: 1648985619:0;neofetch
+: 1648985647:0;flatapak run
+: 1648985660:0;flatpak run spotify
+: 1648985665:0;flatpak list
+: 1648985673:0;flatpak run com.spotify
+: 1648985677:0;flatpak run com.spotify.Client
+: 1648985708:0;flatpak run sh.ppy.osu
+: 1648985877:0;flatpak override --user --env=MANGOHUD=1 sh.ppy.osu
+: 1648985882:0;flatpak run sh.ppy.osu
+: 1648985918:0;yay
+: 1648985967:0;flatpak run sh.ppy.osu
+: 1648985994:0;flatpak update
+: 1648986471:0;poweroff
+: 1649043941:0;sudo dolphin
+: 1649043949:0;sudo thunar
+: 1649045288:0;rclone rcd --rc-web-gui
+: 1649045364:0;sudo chmod 777 /home/haypp/.config/rclone/rclone.conf
+: 1649045369:0;rclone rcd --rc-web-gui
+: 1649046347:0;systemctl status rclone1.service
+: 1649046385:0;cat /etc/systemd/rclone1.service
+: 1649046401:0;cat /etc/systemd/system/rclone1.service
+: 1649046449:0;rclone listremotes
+: 1649046551:0;rclone sync /home/haypp/AndroidStudioProjects gdkampus:backups/AndroidStudioProject --backup-dir
+: 1649046596:0;rclone sync /home/haypp/AndroidStudioProjects gdkampus:backups/AndroidStudioProject/current --backup-dir gdkampus:current/`date -I`
+: 1649047078:0;ideapad-cm
+: 1649047087:0;ideapad-cm status
+: 1649047091:0;ideapad-cm disable
+: 1649047095:0;ideapad-cm status
+: 1649048814:0;yain blueman
+: 1649049447:0;yay -S blueman
+: 1649049462:0;pi blueman
+: 1649049486:0;pi bluez
+: 1649049499:0;pi bluez-utils
+: 1649049532:0;sudo systemctl status bluetooth.service
+: 1649049539:0;sudo systemctl enable bluetooth.service
+: 1649049545:0;sudo systemctl start bluetooth.service
+: 1649061606:0;ln -s ~/.steam/steam/steamapps/compatdata /mnt/sasadi/Game/SteamLibrary/steamapps/
+: 1649062781:0;pi bluez-plugins
+: 1649064902:0;sudo systemctl restart bluetooth.service
+: 1649076604:0;yay
+: 1649085562:0;cat /home/haypp/.config/zsh/zsh/zsh-plugins/archlinux/archlinux.plugin.zsh
+: 1649085612:0;cat /home/haypp/.config/zsh/zsh/zsh-plugins/archlinux/archlinux.plugin.zsh
+: 1649085631:0;cat .config/zsh/zsh-plugins
+: 1649085646:0;cat .config/zsh/zsh-plugins/archlinux/archR
+: 1649085653:0;cat .config/zsh/zsh-plugins/archlinux/archlinux.plugin.zsh
+: 1649085728:0;pacman -Syyu
+: 1649085732:0;sudo pacman -Syyu
+: 1649085743:0;yay -S blueman
+: 1649085751:0;yay -C
+: 1649085753:0;yay -c
+: 1649085762:0;yay -d
+: 1649085764:0;yay
+: 1649085767:0;yay -h
+: 1649085779:0;yay -Q
+: 1649085863:0;oniguruma
+: 1649085875:0;yare oniguruma
+: 1649085887:0;yarem openbox
+: 1649085901:0;yare oniguruma
+: 1649085919:0;yarem openbox
+: 1649085924:0;yay -c
+: 1649085927:0;clear
+: 1649086239:0;print -rl -- ${(k)aliases} ${(k)functions} ${(k)parameters}
+: 1649086268:0;print -rl -- ${(k)aliases} ${(k)functions} ${(k)parameters} > asliase.txt
+: 1649086278:0;micro asliase.txt
+: 1649086315:0;kate asliase.txt \
+: 1649086317:0;kate asliase.txt
+: 1649086332:0;version
+: 1649086343:0;ga
+: 1649086347:0;ar
+: 1649086355:0;au
+: 1649086359:0;g
+: 1649086363:0;h
+: 1649086375:0;yaupg
+: 1649086386:0;mv
+: 1649086389:0;mv --help
+: 1649086402:0;yarep
+: 1649086406:0;yarep a
+: 1649086412:0;yarep brave-bin
+: 1649087061:0;wine Photoshop_Portable_CS6_Multi.exe
+: 1649091385:0;pi an-anime-game-launcher-bin
+: 1649122289:0;neofetch
+: 1649122294:0;yay -c
+: 1649122303:0;neofetch
+: 1649122372:0;yay
+: 1649128050:0;cd code/ci4
+: 1649128064:0;php spark serve
+: 1649128099:0;code
+: 1649128176:0;php spark serve
+: 1649128683:0;adb connect 192.168.200.137:43114
+: 1649128698:0;pi scrcpy
+: 1649128707:0;scrcpy
+: 1649128748:0;scrcpy -h
+: 1649128850:0;yay
+: 1649128911:0;speedtest
+: 1649128922:0;parec brave-bin
+: 1649129349:0;yain octopi
+: 1649129369:0;clear
+: 1649129373:0;yay -c
+: 1649129377:0;wine Photoshop_Portable_CS6_Multi.exe
+: 1649129461:0;pi gimp
+: 1649129469:0;yay -c
+: 1649129471:0;clear
+: 1649129476:0;yay -s
+: 1649129478:0;clear
+: 1649131483:0;php spark serve
+: 1649132023:0;pi ufw
+: 1649132049:0;sudo systemctl enable ufw.service
+: 1649132055:0;sudo systemctl restart ufw.service
+: 1649142656:0;speedtest
+: 1649142722:0;free --bytes
+: 1649142725:0;free -h
+: 1649142969:0;speedtest
+: 1649143341:0;wine --version
+: 1649143369:0;cd /home/haypp/code/Latihan_05/3_belajartabmenu/demotabmenu
+: 1649143851:0;adb connect 192.168.200.137:37670
+: 1649143863:0;speedtest
+: 1649143993:0;adb devices
+: 1649144311:0;ping 8.8.8.8
+: 1649144316:0;ping 1.1.1.1
+: 1649144321:0;ping google.com
+: 1649144552:0;yay
+: 1649145850:0;gamemoderun prime-run mangohud %command% java TLauncher-2.841.jar
+: 1649145860:0;gamemoderun prime-run mangohud java TLauncher-2.841.jar
+: 1649145868:0;gamemoderun prime-run mangohud javac TLauncher-2.841.jar
+: 1649145888:0;ls
+: 1649145896:0;javac TLauncher-2.841.jar
+: 1649145943:0;java -jar TLauncher-2.841.jar
+: 1649145958:0;gamemoderun prime-run mangohud java -jar TLauncher-2.841.jar
+: 1649146015:0;micro run.desktop
+: 1649166287:0;php spark serve
+: 1649167103:0;yay
+: 1649167144:0;cairo
+: 1649167148:0;fwupd-dbxtool
+: 1649167156:0;su fwupd-dbxtool
+: 1649167159:0;sudo fwupd-dbxtool
+: 1649170796:0;steam
+: 1649192371:0;adb devices
+: 1649192402:0;adb 192.168.43.201:37856
+: 1649192410:0;adb connect 192.168.43.201:37856
+: 1649192412:0;adb devices
+: 1649195669:0;adb connect 192.168.43.201:37856
+: 1649195701:0;adb connect 192.168.43.201:40547
+: 1649195706:0;adb devices
+: 1649200906:0;systemctl restart pipewire
+: 1649200922:0;systemctl restart pulsea
+: 1649200935:0;systemctl restart bluetooth-mesh.service
+: 1649200945:0;systemctl restart bluetooth.service
+: 1649201025:0;pactl info\
+: 1649201026:0;pactl info
+: 1649201072:0;systemctl restart pipewire-pulse
+: 1649201079:0;systemctl restart pipewire-pulse.service
+: 1649201091:0;reboot
+: 1649207572:0;yay
+: 1649213917:0;ip a
+: 1649214194:0;yay -c
+: 1649214214:0;pi
+: 1649214251:0;clear
+: 1649214310:0;su
+: 1649214636:0;yay
+: 1649214664:0;sudo systemctl restart reflector.service
+: 1649214678:0;sudo systemctl disable reflector.service
+: 1649214686:0;sudo systemctl stop reflector.service
+: 1649214754:0;yay -Q
+: 1649214766:0;yay -Q > pak.txt
+: 1649214771:0;kate pak.txt
+: 1649214795:0;yarem an-anime-game-launcher-bin
+: 1649214999:0;ping google.com
+: 1649215009:0;ping 1.1.1.1
+: 1649215019:0;ping 1.1.1.1 -t
+: 1649215037:0;ping 1.1.1.1 -c 10000
+: 1649215092:0;neofetch
+: 1649215096:0;omz update
+: 1649215098:0;clear
+: 1649215102:0;neofetch
+: 1649215113:0;yare konsole
+: 1649215162:0;yare xfce4-terminal
+: 1649215166:0;yay -c
+: 1649215170:0;yare thunar
+: 1649215174:0;yay 0c
+: 1649215177:0;yay -c
+: 1649215181:0;pi thunar
+: 1649215214:0;clear
+: 1649219027:0;node
+: 1649219033:0;clear
+: 1649219339:0;yain code-server
+: 1649221313:0;yain npm
+: 1649222417:0;ls
+: 1649222424:0;cd code
+: 1649222431:0;mkdir pay
+: 1649222433:0;cd pay
+: 1649222444:0;$ git clone -b start https://github.com/pointer-gg/solana-pay-tutorial
+: 1649222476:0;it clone -b start https://github.com/pointer-gg/solana-pay-tutorial
+: 1649222497:0;git clone -b start https://github.com/pointer-gg/solana-pay-tutorial
+: 1649222508:0;cd solana-pay-tutorial
+: 1649222513:0;npm install
+: 1649222620:0;npm run dev
+: 1649222703:0;cd code/pay/solana-pay-tutorial/
+: 1649222708:0;cd lin
+: 1649222710:0;cd lib
+: 1649222711:0;ls
+: 1649222717:0;code products.ts
+: 1649222788:0;cd
+: 1649222794:0;cd code/pay/solana-pay-tutorial/
+: 1649222796:0;npm install @solana/web3.js @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-base @solana/wallet-adapter-wallets
+: 1649222864:0;npm audit
+: 1649222869:0;npm audit fix
+: 1649224629:0;npm install @solana/spl-token
+: 1649224897:0;npm install @solana/pay@0.1.3
+: 1649224936:0;npm install react-circular-progressbar
+: 1649226566:0;npm run dev
+: 1649226598:0;npm install react-circular-progressbar
+: 1649227442:0;<span className="mt-4 text-xl font-bold">${product.priceUsd}</span>
+: 1649227447:0;npm install @solana/spl-token
+: 1649228083:0;npm fund
+: 1649228091:0;npm fund fix
+: 1649228097:0;npm fund
+: 1649228104:0;npm run dev
+: 1649230333:0;pwd
+: 1649230336:0;npm install bs58 dotenv
+: 1649231131:0;flatpak remove discord
+: 1649231141:0;yain discord
+: 1649231244:0;node scripts/create-coupon.js
+: 1649231298:0;yain discord
+: 1649231318:0;sudo systemctl restart reflector.service
+: 1649231333:0;sudo systemctl stop reflector.service
+: 1649231344:0;yain discord
+: 1649233363:0;npm run dev
+: 1649291427:0;yare discover
+: 1649291773:0;yay
+: 1649292053:0;yare gnome-disk-utility
+: 1649292063:0;yay -c
+: 1649292074:0;yare gsettings-desktop-schemas
+: 1649292089:0;yare gnome-desktop
+: 1649292102:0;yare gsettings-desktop-schemas
+: 1649292108:0;yare gnome-disk-utility
+: 1649292110:0;yay -c
+: 1649292847:0;adb devices
+: 1649293482:0;free -h
+: 1649293632:0;btop
+: 1649293637:0;htop
+: 1649293668:0;sudo locale-gen
+: 1649293677:0;btop
+: 1649293691:0;btop --utf-force
+: 1649293755:0;adb devices
+: 1649294885:0;./server_linux_no_tray_debug
+: 1649294954:0;./server_linux_debug
+: 1649295055:0;yain premid
+: 1649298347:0;yain gimp
+: 1649299212:0;yain youtube-music-bin
+: 1649299340:0;locale-gen
+: 1649299349:0;sudo locale-ge
+: 1649299355:0;sudo locale-gen
+: 1649299362:0;locale
+: 1649299386:0;sudo micro /etc/locale.conf
+: 1649299396:0;yain youtube-music-bin
+: 1649301441:0;free -h
+: 1649303196:0;yay
+: 1649305582:0;poweroff
+: 1649341032:0;cd code/pay/solana-pay-tutorial/
+: 1649341283:0;cd ..
+: 1649341284:0;ls
+: 1649341287:0;cd solana-pay
+: 1649341288:0;ls
+: 1649341604:0;ping 1.1.1.1 -c 10000
+: 1649341620:0;speedtest
+: 1649341955:0;cd ..
+: 1649341961:0;cp solana-pay solana-pay-1
+: 1649341977:0;cd solana-pay-1
+: 1649342000:0;code
+: 1649342424:0;cd ..
+: 1649342433:0;git clone -b start https://github.com/pointer-gg/solana-pay-tutorial ./solana-pay-2
+: 1649343979:0;cd solana-pay-1
+: 1649343982:0;npm run dev
+: 1649344570:0;cd ../solana-pay-2
+: 1649344571:0;ls
+: 1649344575:0;npm run dev
+: 1649344591:0;cd ..
+: 1649344592:0;ls
+: 1649344599:0;rm -rf solana-pay-2
+: 1649344603:0;rm -rf solana-pay-1
+: 1649344610:0;git clone -b start https://github.com/pointer-gg/solana-pay-tutorial ./solana-pay-1
+: 1649344615:0;ls
+: 1649344620:0;cd solana-pay-1
+: 1649344628:0;npm run dev
+: 1649344647:0;npm install
+: 1649344696:0;npm run dev
+: 1649344942:0;cd code/pay/solana-pay-1
+: 1649344976:0;npm install @solana/web3.js @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-base @solana/wallet-adapter-wallets
+: 1649345403:0;npm install @solana/pay@0.1.3npm install @solana/pay@0.1.3
+: 1649345449:0;npm install react-circular-progressbar
+: 1649346022:0;cd code/pay/
+: 1649346023:0;ls
+: 1649346075:0;cp solana-pay solana-firstsale
+: 1649346392:0;npm install @solana/spl-token
+: 1649347110:0;cp solana-pay solana-dollar
+: 1649347793:0;cp solana-pay solana-payscan
+: 1649347843:0;cp solana-pay solana-trreq4
+: 1649347969:0;npm install bs58 dotenv
+: 1649348127:0;node scripts/create-coupon.js
+: 1649349452:0;cd ..
+: 1649349455:0;ls
+: 1649349462:0;la
+: 1649349496:0;rm -rf solana-pay-1
+: 1649349505:0;la
+: 1649349506:0;ls
+: 1649349528:0;cp solana-trreq4 solana-pay-1
+: 1649349531:0;ls
+: 1649349541:0;cd
+: 1649349551:0;cd code/pay/solana-pay-1
+: 1649349553:0;ls
+: 1649349573:0;npm run dev\
+: 1649349574:0;npm run dev
+: 1649349711:0;ls
+: 1649349713:0;cd
+: 1649349716:0;cd code/pay/solana-pay-1
+: 1649349720:0;ls
+: 1649349723:0;npm run dev
+: 1649353356:0;cd code/pay/sol3
+: 1649353387:0;#
+: 1649353391:0;clear
+: 1649353470:0;yain konsole
+: 1649353488:0;!
+: 1649353494:0;cd code/pay/sol3
+: 1649353645:0;cd code/pay/ori/
+: 1649353653:0;cd
+: 1649353811:0;cd code/pay/ori/solana-pay-start2_ourfirstsale
+: 1649353821:0;npm run dev
+: 1649353836:0;chmod 777
+: 1649353840:0;sudo chmod 777
+: 1649353852:0;cd
+: 1649353858:0;cd code/pay/ori/
+: 1649353859:0;ls
+: 1649353874:0;chmod 777 *
+: 1649353876:0;ls
+: 1649353891:0;cd solana-pay-start2_ourfirstsale
+: 1649353892:0;ls
+: 1649353896:0;npm run dev
+: 1649353918:0;npm install
+: 1649353926:0;npm run dev
+: 1649353955:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_ourfirstsale/node_modules/.bin/next
+: 1649353957:0;npm run dev
+: 1649354156:0;cd ..
+: 1649354163:0;cd solana-pay-start2_changingdollar
+: 1649354164:0;ls
+: 1649354208:0;npm run dev
+: 1649354232:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_changingdollar/node_modules/.bin/next
+: 1649354233:0;npm run dev
+: 1649354257:0;npm install
+: 1649354268:0;npm run dev
+: 1649354572:0;cd ..
+: 1649354578:0;cd solana-pay-start2_solanapay
+: 1649354594:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_solanapay/node_modules/.bin/next
+: 1649354599:0;npm install
+: 1649354611:0;npm run dev
+: 1649354717:0;cd ..
+: 1649354918:0;cd solana-pay-start2_loyaltyscheme-beforeminting
+: 1649354942:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_solanapayloyaltyscheme-beforeminting/node_modules/.bin/next
+: 1649354967:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_solana_loyaltyscheme-beforeminting/node_modules/.bin/next
+: 1649355007:0;sudo chmod 777 /home/haypp/code/pay/ori/solana-pay-start2_loyaltyscheme-beforeminting/node_modules/.bin/next
+: 1649355012:0;npm install
+: 1649355020:0;npm run dev
+: 1649355045:0;node scripts/create-coupon.js
+: 1649355277:0;\
+\
+
+: 1649355279:0;cd ..
+: 1649355289:0;cd solana-pay
+: 1649355298:0;npm run dev
+: 1649355838:0;cd ..
+: 1649355840:0;ls
+: 1649355844:0;cd solana-pay
+: 1649355849:0;npm run dev
+: 1649357866:0;cd vis
+: 1649357876:0;cd /home/haypp/code/pay/solana-pay-dot1/
+: 1649357881:0;npm run dev
+: 1649358140:0;pwd
+: 1649358146:0;npm install
+: 1649358153:0;npm run dev
+: 1649359188:0;sudo thunar
+: 1649405312:0;cd code/pay/ori/solana-pay-start2_ourfirstsale
+: 1649405314:0;npm run dev
+: 1649405572:0;cd ..
+: 1649405581:0;cd solana-pay-start2_changingdollar
+: 1649405584:0;npm run dev
+: 1649406139:0;cd ../solana-pay-start2_solanapay
+: 1649406142:0;npm run dev
+: 1649406252:0;cd ../solana-pay-start2_loyaltyscheme-beforeminting/
+: 1649406255:0;node scripts/create-coupon.js
+: 1649406399:0;npm run dev
+: 1649406465:0;cd ../solana-pay-start2_finish/
+: 1649406467:0;npm run dev
+: 1649406493:0;cd ../solana-pay
+: 1649406496:0;npm run dev
+: 1649424499:0;speedtest
+: 1649427940:0;yain telegram-desktop
+: 1649430732:0;yay
+: 1649431269:0;yain auto-cpufreq
+: 1649473573:0;go
+: 1649473601:0;cd code/pay/waleetoff
+: 1649473606:0;mkdir code/pay/waleetoff
+: 1649473607:0;cd code/pay/waleetoff
+: 1649473624:0;npm install @cosmostation/keystation-es6npm ins
+: 1649473650:0;gcl https://github.com/cosmostation/keystation.git
+: 1649473688:0;cd code/pay/
+: 1649473697:0;gcl https://github.com/cosmostation/keystation.git
+: 1649473718:0;pi go
+: 1649473732:0;cd keystation
+: 1649476895:0;pi go
+: 1649555684:0;cd code/ci4
+: 1649555688:0;php spark serve
+: 1649555837:0;code ~/code/ci4
+: 1649568858:0;yain go
+: 1649568864:0;go
+: 1649568868:0;cd code
+: 1649568869:0;ls
+: 1649568871:0;cd pay
+: 1649568871:0;ls
+: 1649568874:0;cd k
+: 1649568877:0;cd keystation
+: 1649568879:0;go main.go
+: 1649568884:0;go help
+: 1649568889:0;go ./main.go
+: 1649568911:0;go run main.go
+: 1649574099:0;yay
+: 1649574124:0;sudo systemctl start reflector.service
+: 1649574133:0;sudo systemctl status reflector.service
+: 1649574140:0;sudo systemctl start reflector.service
+: 1649574145:0;sudo systemctl restart reflector.service
+: 1649574150:0;yay
+: 1649574477:0;yain firefox
+: 1649662898:0;yay
+: 1649664735:0;pi bottle
+: 1649664989:0;yain bottles
+: 1649665139:0;bottles
+: 1649678217:0;ping 192.168.106.174
+: 1649678258:0;ip a
+: 1649679014:0;kdeconnect-cli --refresh
+: 1649679020:0;kdeconnect-cli -l
+: 1649719606:0;yay
+: 1649719773:0;neofetch
+: 1649719781:0;flatpak list
+: 1649719806:0;yain obs-studio
+: 1649719841:0;yain libva-intel-driver
+: 1649719855:0;obs
+: 1649719960:0;flatpak list
+: 1649720018:0;bottles
+: 1649750744:0;sudo nano /etc/default/gr
+: 1649750760:0;sudo nano /etc/default/grub
+: 1649750810:0;sudo grub-mkconfig -o /boot/grub/grub.cfg
+: 1649750902:0;yay
+: 1649751818:0;adb devices
+: 1649751866:0;adb connect 192.168.200.162:39006
+: 1649751952:0;adb devices
+: 1649751992:0;adb kill server
+: 1649751998:0;adb --kill-server
+: 1649752002:0;adb --help
+: 1649752038:0;adb kill-server
+: 1649752082:0;lsusb
+: 1649752111:0;adb kill-server
+: 1649752115:0;adb start-server
+: 1649752236:0;adb devices
+: 1649753203:0;adb connect 192.168.200.162:39251
+: 1649753218:0;adb devices
+: 1649754930:0;neofetch
+: 1649761608:0;php spark serve
+: 1649761742:0;yain mariadb
+: 1649761765:0;yain mariadb lighttpd php-cli
+: 1649761848:0;sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+: 1649761881:0;sudo systemctl start mariadb.service
+: 1649761898:0;sudo mysql -u root -p
+: 1649761981:0;yain phpmyadmin
+: 1649762025:0;clear
+: 1649762042:0;sudo micro /etc/php/php.ini
+: 1649762151:0;sudo micro /etc/lighttpd/lighttpd.conf
+: 1649762220:0;yain php-cgi
+: 1649762247:0;sudo systemctl start lighttpd.service
+: 1649762278:0;php-cgi --version
+: 1649762289:0;sudo micro /etc/lighttpd/conf.d/fastcgi.conf
+: 1649762321:0;sudo nano /etc/lighttpd/conf.d/fastcgi.conf
+: 1649762336:0;sudo touch /etc/lighttpd/conf.d/fastcgi.conf
+: 1649762350:0;sudo mkdir /etc/lighttpd/conf.d
+: 1649762358:0;cd /etc/lighttpd/conf.d
+: 1649762372:0;sudo micro fastcgi.conf
+: 1649762390:0;yain php-fpm
+: 1649762410:0;yare php-fpm
+: 1649762421:0;sudo systemctl restart lighttpd.service
+: 1649762474:0;pacman -Ss php-
+: 1649762531:0;sudo systemctl restart lighttpd.service
+: 1649762540:0;sudo systemctl restart mariadb.service
+: 1649762612:0;sudo micro /etc/php/php.ini
+: 1649762693:0;sudo cat /etc/lighttpd/conf.d/fastcgi.conf
+: 1649762728:0;sudo micro /etc/lighttpd/lighttpd.conf\
+
+: 1649762743:0;sudo systemctl restart lighttpd.service
+: 1649762781:0;sudo micro /etc/phpmyadmin/config.inc.php
+: 1649762850:0;sudo micro /etc/webapps/phpmyadmin/config.inc.php
+: 1649762915:0;sudo mysql
+: 1649762939:0;mysql -u root -p
+: 1649762944:0;sudo mysql
+: 1649763194:0;cd ~/code/ci4/
+: 1649763200:0;php spark migrate:create Karyawan
+: 1649763476:0;mysql -u root -p
+: 1649763515:0;sudo mysql
+: 1649763593:0;php spark migrate
+: 1649763859:0;php spark serve
+: 1649764415:0;timectl
+: 1649764420:0;timedatectl
+: 1649764480:0;sudo timedatectl set-local-rtc 1
+: 1649764484:0;timedatectl
+: 1649764493:0;sudo timedatectl set-local-rtc 0
+: 1649764494:0;timedatectl
+: 1649764508:0;clear
+: 1649764788:0;sudo timedatectl set-local-rtc 1
+: 1649766368:0;reboot
+: 1649766482:0;sudo systemctl restart lighttpd.service
+: 1649766493:0;sudo systemctl restart mariadb.service
+: 1649766525:0;cd ~/code/ci4/
+: 1649766533:0;php spark migrate:create Karyawan
+: 1649766543:0;php spark migrate:create Pegawai
+: 1649766547:0;php spark migrate:create Barang
+: 1649766558:0;code ~/code/ci4
+: 1649766709:0;php spark migrate:create User
+: 1649767062:0;php spark serve
+: 1649768249:0;ls
+: 1649768250:0;la
+: 1649768256:0;ls -a
+: 1649768258:0;ls -l
+: 1649768260:0;ls -h
+: 1649768264:0;ls
+: 1649768306:0;php spark migrate
+: 1649768508:0;php spark make:seeder KaryawanSeeder
+: 1649768691:0;php spark db:seed KaryawanSeeder
+: 1649768829:0;php spark migrate:rollback
+: 1649768848:0;php spark migrate
+: 1649768854:0;php spark db:seed KaryawanSeeder
+: 1649768927:0;php spark migrate:rollback
+: 1649768939:0;php spark migrate
+: 1649768947:0;php spark db:seed KaryawanSeeder
+: 1649769005:0;php spark migrate
+: 1649769008:0;php spark db:seed KaryawanSeeder
+: 1649769078:0;php spark migrate:rollback
+: 1649769095:0;php spark migrate
+: 1649769119:0;php spark db:seed KaryawanSeeder
+: 1649769154:0;php spark make:seeder KaryawanFakerSeeder
+: 1649769189:0;php spark db:seed KaryawanFakerSeeder
+: 1649769299:0;php spark db:seed KaryawanSeeder
+: 1649772907:0;yay
+: 1649773905:0;scrcpy
+: 1649775508:0;scrcpy --help
+: 1649775533:0;scrcpy -b 3000
+: 1649776011:0;scrcpy -b 5000
+: 1649776913:0;htop
+: 1649777426:0;mantap woi
+: 1649777429:0;ls
+: 1649777447:0;mpv Pertemuan\ 5.mkv
+: 1649777468:0;mpv 2022-04-12\ 06-32-22.mkv
+: 1649777498:0;exit
+: 1649777522:0;yay
+: 1649778185:0;htop
+: 1649778284:0;poweroff
+: 1649842229:0;clear
+: 1649842246:0;yay
+: 1649842558:0;clear
+: 1649842560:0;yay
+: 1649842612:0;neofetch
+: 1649842624:0;cat .config/zsh/.zshrc
+: 1649842661:0;yain
+: 1649842662:0;clear
+: 1649842674:0;cd ~/code/
+: 1649842676:0;cd pay
+: 1649842681:0;cd keystation
+: 1649842686:0;cd ..
+: 1649842692:0;rm -rf keystation
+: 1649842695:0;clear
+: 1649842699:0;scrcpy -b 5000
+: 1649842702:0;clear
+: 1649842792:0;neofetch
+: 1649842798:0;clear
+: 1649842802:0;flatpak list
+: 1649842843:0;clear
+: 1649842911:0;yay -c
+: 1649842917:0;pacman -Q
+: 1649842924:0;yare youtube-music-bin
+: 1649842931:0;yarem youtube-music-bin
+: 1649842938:0;pacman -Q
+: 1649842974:0;yare gparted
+: 1649843092:0;yarem lutris
+: 1649843306:0;yay -c
+: 1649843315:0;clear
+: 1649843317:0;exit
+: 1649843350:0;yare tint2
+: 1649843405:0;yare cuttlefish
+: 1649843411:0;poweroff
+: 1649852318:0;yare kitty
+: 1649852328:0;yay -c
+: 1649852336:0;clear
+: 1649852388:0;yare picon
+: 1649852390:0;yare picom
+: 1649852394:0;yay -c
+: 1649852399:0;clear
+: 1649853378:0;systemctl status mariadb.service
+: 1649853391:0;systemctl status lighttpd.service
+: 1649853439:0;./phpmyadmin.sh
+: 1649853507:0;sudo chmod 777 /usr/share/webapps/phpMyAdmin/tmp/
+: 1649853515:0;sudo mkdir /usr/share/webapps/phpMyAdmin/tmp/
+: 1649853523:0;sudo chmod 777 /usr/share/webapps/phpMyAdmin/tmp/
+: 1649855638:0;timedatectl
+: 1649855657:0;timedatectl set-local-rtc 0
+: 1649855660:0;timedatectl
+: 1649855709:0;ntpq -p
+: 1649855712:0;sudo ntpq -p
+: 1649855720:0;yain ntp
+: 1649855747:0;sudo ntpd -u ntp:ntp
+: 1649855755:0;ntpq -p
+: 1649855785:0;systemctl status ntpdate.service
+: 1649855791:0;systemctl status ntp.service
+: 1649855795:0;systemctl status ntpd.service
+: 1649830722:0;pi firefox
+: 1649831659:0;yain spotify
+: 1649834064:0;clear
+: 1649834068:0;exit
+: 1649834077:0;yay
+: 1649834373:0;yain spotify
+: 1649834410:0;yain spotify-dev
+: 1649834425:0;yain spotify
+: 1649834725:0;flatpak remove spotify
+: 1649834748:0;spotify
+: 1649834783:0;flatpak list
+: 1649834798:0;flatpak remove com.obsproject.Studio
+: 1649835806:0;free -h
+: 1649835812:0;neofetch
+: 1649835986:0;clear
+: 1649836014:0;yay
+: 1649836027:0;yare firefox
+: 1649836033:0;yay -c
+: 1649836035:0;clear
+: 1649836042:0;free -h
+: 1649837019:0;uname -a
+: 1649842094:0;yay
+: 1649842132:0;flatpak list
+: 1649842139:0;flatpak remove *
+: 1649842172:0;flatpak remove osu
+: 1649842177:0;flatpak remove *
+: 1649842193:0;yare flatpak
+: 1649842202:0;yarem libpamac-nosnap
+: 1649842209:0;yarem libpamac-nosnap pamac-nosnap
+: 1649842225:0;yare flatpak
+: 1649842229:0;yay -c
+: 1649842235:0;yain pamac
+: 1649842245:0;neofetch
+: 1649842478:0;yare snappy
+: 1649842483:0;snappy
+: 1649842494:0;yare shim-signed
+: 1649842498:0;yay -c
+: 1649851011:0;sudo wget https://raw.githubusercontent.com/bebasid/bebasid/master/releases/bebasid.sh -O /usr/local/bin/bebasid
+: 1649851021:0;sudo chmod +x /usr/local/bin/bebasid
+: 1649851030:0;bebasid --help
+: 1649851060:0;bebasid install --r18
+: 1649851069:0;bebasid --r18
+: 1649851077:0;bebasid install
+: 1649851096:0;bebasid menu
+: 1649851837:0;7
+: 1649851841:0;1
+: 1649851843:0;7
+: 1649851845:0;bebasid menu
+: 1649852720:0;steam
+: 1649852830:0;mangohud
+: 1649853175:0;poweroff
+: 1649902627:0;yay
+: 1649902659:0;yare refind
+: 1649902663:0;yay -c
+: 1649902666:0;yay
+: 1649903023:0;systemctl restart reflector.service
+: 1649903034:0;yay
+: 1650011627:0;yain gparted
+: 1650011680:0;yare gparted
+: 1650011683:0;yay -c
+: 1650011686:0;clear
+: 1650011688:0;exit
+: 1650011914:0;yain qemu
+: 1650011923:0;yain qemu-headless
+: 1650011953:0;yain qemu
+: 1650011985:0;yain virt-manager
+: 1650012080:0;yain libvirt edk2-ovmf dnsmasq iptables-ntf
+: 1650012163:0;yain iptables-nft
+: 1650012201:0;sudo systemctl enable libvirtd.service
+: 1650012206:0;sudo systemctl start libvirtd.service
+: 1650033414:0;btop
+: 1650033453:0;free -h
+: 1650033457:0;clear
+: 1650033459:0;neofetch
+: 1650033466:0;clear
+: 1650033469:0;yay
+: 1650033621:0;sudo systemctl start reflector.service
+: 1650033628:0;yay
+: 1650033640:0;speedtest
+: 1650033661:0;yay
+: 1650034195:0;vim
+: 1650034204:0;vimtutor
+: 1650034313:0;clear
+: 1650034320:0;yay
+: 1650034326:0;clear
+: 1650034328:0;btop
+: 1650034843:0;yay
+: 1650034863:0;yay -S plymouth-git
+: 1650035025:0;plymouth-set-default-theme -l
+: 1650035037:0;sudo micro /etc/plymouth/plymouthd.conf
+: 1650035064:0;sudo micro /etc/mkinitcpio.conf
+: 1650035116:0;sudo systemctl disable sddm.service
+: 1650035138:0;sudo systemctl enable sddm-plymouth.service
+: 1650035173:0;sudo mkinitcpio
+: 1650035185:0;sudo mkinitcpio -p linux linux-zen
+: 1650035196:0;sudo mkinitcpio -p linux-lts linux-zen
+: 1650035219:0;sudo mkinitcpio -p linux-zen
+: 1650035256:0;sudo micro /etc/default/grub
+: 1650035297:0;sudo grub-mkconfig -o /boot/grub/grub.cfg
+: 1650035307:0;sudo micro /etc/default/grub
+: 1650035316:0;sudo grub-mkconfig -o /boot/grub/grub.cfg
+: 1650035326:0;reboot
+: 1650035390:0;sudo micro /etc/plymouth/plymouthd.conf
+: 1650035420:0;sudo cp /usr/share/plymouth/arch-logo.png /usr/share/plymouth/themes/spinner/watermark.png
+: 1650035454:0;ls /usr/share/plymouth/themes
+: 1650035459:0;cd /usr/share/plymouth/themes
+: 1650035466:0;cd spinner
+: 1650035472:0;sudo micro spinner.plymouth
+: 1650035494:0;reboot
+: 1650035569:0;ristretto /usr/share/plymouth/arch-logo.png
+: 1650035583:0;cd /usr/share/plymouth/
+: 1650035584:0;ls
+: 1650035688:0;sudo mv ~/Downloads/3/archlogo.png .
+: 1650035690:0;ls
+: 1650035702:0;ristretto archlogo.png
+: 1650035729:0;sudo cp archlogo.png /usr/share/plymouth/themes/spinner/watermark.png
+: 1650035734:0;reboot
+: 1650035800:0;cd /usr/share/plymouth/themes
+: 1650035803:0;cd spinner
+: 1650035808:0;sudo micro spinner.plymouth
+: 1650035913:0;cd /usr/share/plymouth
+: 1650035922:0;sudo mv ~/Downloads/3/Archlinux130.png .
+: 1650035924:0;ls
+: 1650035939:0;sudo cp Archlinux130.png /usr/share/plymouth/themes/spinner/watermark.png
+: 1650035970:0;sudo micro /etc/plymouth/plymouthd.conf
+: 1650036003:0;sudo micro /usr/share/plymouth/themes/spinner/spinner.plymouth
+: 1650036036:0;reboot
+: 1650036113:0;yay -c
+: 1650036120:0;clear
+: 1650036127:0;exit
+: 1650036145:0;yare premid
+: 1650036151:0;yay -c
+: 1650036163:0;yain premid
+: 1650036214:0;yare premid
+: 1650036217:0;yay -c
+: 1650036219:0;neofetch
+: 1650036240:0;ðƒ¿ƒ§¦ðƒ¿ƒ§¨
+: 1650036242:0;clear
+: 1650036250:0;unzip
+: 1650036252:0;clear
+: 1650036254:0;unrar
+: 1650036259:0;clear
+: 1650036261:0;rar
+: 1650036263:0;zip
+: 1650036265:0;clear
+: 1650036267:0;7zip
+: 1650036270:0;yain 7zip
+: 1650036276:0;clear
+: 1650036281:0;pacman -h
+: 1650036294:0;pacman -T neofetch
+: 1650036304:0;pacman -D neofetch
+: 1650036309:0;sudo pacman -D neofetch
+: 1650036314:0;sudo pacman -V
+: 1650036321:0;clear
+: 1650036327:0;yay -h
+: 1650036347:0;yay -h | grep "search"
+: 1650036372:0;yay --searchby neofetch
+: 1650036408:0;tl[]
+: 1650036410:0;tlp
+: 1650036413:0;yain tlp
+: 1650036444:0;yain acpi_call ethtool tp_smapi
+: 1650036466:0;yain ethtool tp_smapi
+: 1650036484:0;yain ethtool acpi_call
+: 1650036489:0;yain ethtool
+: 1650036492:0;clear
+: 1650036500:0;yay -S tlp
+: 1650036512:0;tlp
+: 1650036519:0;sudo tlp
+: 1650036523:0;sudo tlp -h
+: 1650036526:0;sudo tlp --hrlp
+: 1650036533:0;sudo tlp start
+: 1650036551:0;systemctl status tlp.service
+: 1650036559:0;systemctl enable tlp.service
+: 1650036587:0;systemctl mask systemd-rfkill.socket
+: 1650036597:0;sudo tlp start
+: 1650036606:0;systemctl mask systemd-rfkill.service
+: 1650036612:0;sudo tlp start
+: 1650036616:0;clear
+: 1650036617:0;sudo tlp start
+: 1650036621:0;sudo tlp
+: 1650036624:0;sudo tlp ac
+: 1650036640:0;sudo tlp recalibrate
+: 1650036645:0;sudo tlp ac
+: 1650036653:0;sudo tlp recalibrate
+: 1650036670:0;sudo tlp status
+: 1650036681:0;sudo tlp diskif
+: 1650036683:0;sudo tlp diskid
+: 1650036690:0;sudo tlp fullcharge
+: 1650036800:0;yain tm-smapi
+: 1650036811:0;yain tp_smapi
+: 1650036883:0;yain slimbookbattery
+: 1650036994:0;tlp-stst
+: 1650036996:0;tlp-stat
+: 1650037014:0;locale-gen
+: 1650037022:0;sudo locale-gen
+: 1650037058:0;locale-a
+: 1650037059:0;locale -a
+: 1650037089:0;locale
+: 1650037108:0;locale-gen
+: 1650037115:0;sudo ocale-gen
+: 1650037120:0;sudo locale-gen
+: 1650037126:0;tlp-stat
+: 1650037147:0;sudo micro /etc/rc.conf
+: 1650037192:0;sudo micro /etc/locale.gen
+: 1650037220:0;sudo locale-gen
+: 1650037227:0;tlp-stat
+: 1650037231:0;sudo tlp-stat
+: 1650037242:0;yain ethtool
+: 1650037247:0;sudo tlp-stat
+: 1650037254:0;clear
+: 1650037263:0;sudo tlp start
+: 1650037283:0;clear
+: 1650037285:0;yare
+: 1650037289:0;pi
+: 1650037293:0;pi neofetch
+: 1650037299:0;neofetch
+: 1650037318:0;cd Games
+: 1650037318:0;ls
+: 1650037326:0;prime-run TLauncher-2.841
+: 1650037332:0;cd TLauncher-2.841
+: 1650037334:0;ls
+: 1650037341:0;prime-run TLauncher-2.841.jar
+: 1650037346:0;prime-run javac TLauncher-2.841.jar
+: 1650037353:0;TLauncher-2.841.jar
+: 1650037356:0;java
+: 1650037360:0;javac TLauncher-2.841.jar
+: 1650037366:0;java TLauncher-2.841.jar
+: 1650037370:0;clear
+: 1650037373:0;java --version
+: 1650037376:0;javac --version
+: 1650037382:0;java TLauncher-2.841.jar
+: 1650037459:0;which java
+: 1650037463:0;which prime-run
+: 1650037510:0;/usr/bin/prime-run /usr/bin/java TLauncher-2.841.jar
+: 1650037515:0;/usr/bin/prime-run /usr/bin/javac TLauncher-2.841.jar
+: 1650037525:0;which javac
+: 1650037534:0;TLauncher-2.841.jar
+: 1650037539:0;./TLauncher-2.841.jar
+: 1650037594:0;java-java-openjdk
+: 1650037620:0;cd /usr/share/applications
+: 1650037628:0;cd /usr/share/applications | grep "java"
+: 1650037637:0;cat java-java-openjdk.desktop
+: 1650037652:0;/usr/lib/jvm/java-18-openjdk/bin/java -jar
+: 1650037682:0;/usr/lib/jvm/java-18-openjdk/bin/java -jar TLauncher-2.841.jar
+: 1650037701:0;/usr/bin/prime-run /usr/lib/jvm/java-18-openjdk/bin/java -jar TLauncher-2.841.jar
+: 1650037833:0;./launchNvidia.sh
+: 1650037945:0;free -h
+: 1650038236:0;gamemoderun prime-run mangohud java -jar TLauncher-2.841.jar
+: 1650038366:0;which magohud
+: 1650038371:0;which mangohud
+: 1650038410:0;which gamemoderun
+: 1650038435:0;./launchNvidia.sh
+: 1650038579:0;yare zeromq
+: 1650038595:0;pacman -Q |grep "ssh"
+: 1650038602:0;pacman -Q |grep "bvnc"
+: 1650038605:0;pacman -Q |grep "vnc"
+: 1650038611:0;yare gtk-vnc
+: 1650038632:0;pacman -Q |grep "avahi"
+: 1650038638:0;yare avahi
+: 1650038649:0;geoclue
+: 1650038652:0;gvfs
+: 1650038656:0;help
+: 1650038658:0;clear
+: 1650038660:0;exit
+: 1650261689:0;yay
+: 1650265803:0;yain zoom
+: 1650267240:0;yain mousai
+: 1650267534:0;pacman -Q |grep "avahi"
+: 1650267539:0;pacman -Q
+: 1650267541:0;neofetch
+: 1650268088:0;clear
+: 1650268093:0;yay -c
+: 1650268101:0;clear
+: 1650268104:0;neofetch
+: 1650272925:0;yre
+: 1650272927:0;yare
+: 1650272932:0;yay -c
+: 1650286450:0;ulimit -Hn
+: 1650287664:0;adb connect 192.168.43.20:5555
+: 1650287727:0;adb connect 192.168.43.200:5555
+: 1650287742:0;adb devices
+: 1650288147:0;adb connect 192.168.43.200:5555
+: 1650288150:0;adb devices
+: 1650288337:0;adb dev
+: 1650288340:0;adb devices
+: 1650288343:0;adb kill-server
+: 1650288348:0;adb start-server
+: 1650288352:0;adb connect 192.168.43.200:5555
+: 1650288369:0;adb kill-server
+: 1650288372:0;adb start-server
+: 1650288375:0;adb connect 192.168.43.200:5555
+: 1650288382:0;adb devices
+: 1650289270:0;yain teamviewer
+: 1650289777:0;sudo teamviewer --daemon-start
+: 1650289786:0;teamviewer --daemon-start
+: 1650289812:0;sudo teamviewer --daemon start
+: 1650290202:0;sudo teamviewer --daemon-start
+: 1650290210:0;sudo teamviewer --daemon start
+: 1650290229:0;teamviewer
+: 1650291673:0;yay
+: 1650293508:0;speedtest
+: 1650293673:0;yain archon
+: 1650294451:0;npm install vis
+: 1650294458:0;npm install chromeos-apk -g
+: 1650294472:0;sudo npm install chromeos-apk -g
+: 1650294495:0;cd Downloads
+: 1650294498:0;cd 3
+: 1650294511:0;chromeos-apk noice.app_56_apps.evozi.com.apk
+: 1650295186:0;ls -1 /dev/{ashmem,binder}
+: 1650337596:0;yay
+: 1650337621:0;yare rsync
+: 1650337627:0;yay -c
+: 1650337632:0;clear
+: 1650337641:0;yay
+: 1650337908:0;for p in /sys/class/drmcard?-}: "; cat $p; done\
+\
+\
+exit\
+exit()\
+exit;
+: 1650337960:0;ls /sys/class/drm/card*
+: 1650338034:0;ls /sys/class/drm/card1-DP-1/modes
+: 1650338044:0;cat /sys/class/drm/card1-DP-1/modes
+: 1650338072:0;cat /sys/class/drm/card1-eDP-1/modes
+: 1650338238:0;code ~/code/ci4
+: 1650338253:0;cd ~/code/ci4
+: 1650338453:0;php spark serve
+: 1650338559:0;ls
+: 1650338561:0;cd
+: 1650338562:0;ls
+: 1650338569:0;sh ./phpmyadmin.sh
+: 1650338680:0;cd ~/code/ci4-bak/
+: 1650338684:0;composer update
+: 1650338697:0;cd ..
+: 1650338699:0;composer update
+: 1650338707:0;cd ci4-bak/
+: 1650338708:0;composer update
+: 1650338717:0;composer fund
+: 1650338722:0;composer update
+: 1650338755:0;cd ../ci4-bak
+: 1650338758:0;php spark serve
+: 1650338831:0;cd ../ci4
+: 1650339026:0;php spark serve
+: 1650339526:0;yain noto-fonts-emoji
+: 1650339539:0;yain ttf-joypixel
+: 1650339548:0;yain ttf-joypixels
+: 1650341746:0;adb connect 192.168.200.236:5555
+: 1650341763:0;adb devices
+: 1650341777:0;adb kill-server
+: 1650341779:0;adb start-server
+: 1650341786:0;adb devices
+: 1650342339:0;adb kill-server
+: 1650342343:0;adb start-server
+: 1650342360:0;adb devices
+: 1650343582:0;cd ~/.android
+: 1650343620:0;adb push adbkey.pub /data/misc/adb/adb_keys
+: 1650343626:0;adb devices
+: 1650343662:0;adb push adbkey.pub /data/misc/adb/adb_keys
+: 1650343675:0;adb kill-server
+: 1650343682:0;adb push adbkey.pub /data/misc/adb/adb_keys
+: 1650343782:0;adb devices
+: 1650343798:0;scrcpy -b 5000
+: 1650343854:0;adb connect 192.168.200.236:5555
+: 1650343859:0;adb devices
+: 1650343864:0;scrcpy -b 5000
+: 1650344029:0;adb devices
+: 1650344032:0;adb connect 192.168.200.236:5555
+: 1650344034:0;adb devices
+: 1650344152:0;adb connect 192.168.200.236:5555
+: 1650344166:0;adb devices
+: 1650345704:0;adb connect 192.168.200.236:5555
+: 1650345705:0;adb devices
+: 1650345707:0;adb connect 192.168.200.236:5555
+: 1650345708:0;adb devices
+: 1650345959:0;adb connect 192.168.200.236:5555
+: 1650345961:0;adb devices
+: 1650349305:0;yay
+: 1650349646:0;adb connect 192.168.200.236:5555
+: 1650349647:0;yay
+: 1650349655:0;adb devices
+: 1650350343:0;adb connect 192.168.200.236:5555
+: 1650350350:0;adb devices
+: 1650350497:0;adb kill-server
+: 1650350506:0;adb connect 192.168.200.236:5555
+: 1650350518:0;adb devices
+: 1650356559:0;adb connect 192.168.200.236:5555
+: 1650356560:0;adb devices
+: 1650356849:0;adb connect 192.168.200.236:5555
+: 1650356860:0;adb devices
+: 1650357084:0;adb connect 192.168.200.236:5555
+: 1650358404:0;scrcpy -b 5000
+: 1650358503:0;adb connect 192.168.200.236:5555
+: 1650376491:0;adb connect 192.168.43.200:5555
+: 1650376495:0;scrcpy -b 5000
+: 1650376584:0;adb connect 192.168.43.200:5555
+: 1650379752:0;free -h
+: 1650384611:0;neofetch
+: 1650384801:0;steam
+: 1650417079:0;adb connect 192.168.200.236:5555
+: 1650417084:0;adb devices
+: 1650417116:0;adb shell sh /sdcard/Android/data/com.catchingnow.icebox/files/start.sh
+: 1650418485:0;adb devices
+: 1650418705:0;yay
+: 1650418750:0;parted
+: 1650418757:0;sudo parted
+: 1650420009:0;yare parted
+: 1650420025:0;yare steam-native-runtime
+: 1650420031:0;yay -c
+: 1650420042:0;neofetch
+: 1650421038:0;pacman -Rdd
+: 1650421047:0;sudo pacman -Rdd neofetch
+: 1650421059:0;sudo pacman -Syyu neofetch
+: 1650421063:0;sudo pacman -Syu neofetch
+: 1650421099:0;yain arandr
+: 1650421133:0;arandr
+: 1650426894:0;yay
+: 1650431807:0;speedtest
+: 1650432163:0;neofetch
+: 1650457434:0;adb connect 192.168.43.200:5555
+: 1650463584:0;yay
+: 1650502308:0;yain system-monitoring-center
+: 1650502332:0;yain system-monitoring-center -y
+: 1650503119:0;yay -c
+: 1650503130:0;neofetch
+: 1650504010:0;mkdir code/webtorrent
+: 1650504016:0;cd code/webtorrent
+: 1650504018:0;npm install https://github.com/ThaUnknown/webtorrent-player
+: 1650504066:0;git --no-replace-objects ls-remote ssh://git@github.com/ThaUnknown/webtorrent-player.git
+: 1650504071:0;npm install https://github.com/ThaUnknown/webtorrent-player
+: 1650504223:0;import WebTorrentPlayer from 'webtorrent-player'
+: 1650505108:0;sudo micro /etc/lighttpd/lighttpd.conf\
+
+: 1650505161:0;cd
+: 1650505163:0;sh ./phpmyadmin.sh
+: 1650505186:0;sudo micro /etc/lighttpd/lighttpd.conf\
+
+: 1650505214:0;systemctl restart lighttpd.service
+: 1650505231:0;sh ./phpmyadmin.sh
+: 1650505255:0;systemctl status lighttpd.service
+: 1650505266:0;systemctl restart lighttpd.service
+: 1650505270:0;systemctl status lighttpd.service
+: 1650505275:0;sudo micro /etc/lighttpd/lighttpd.conf\
+
+: 1650505345:0;systemctl restart lighttpd.service
+: 1650505350:0;systemctl status lighttpd.service
+: 1650505376:0;systemctl restart lighttpd.service
+: 1650505379:0;systemctl status lighttpd.service
+: 1650505407:0;cd /home/haypp/code/webtorrent/node_modules/webtorrent-player/
+: 1650505411:0;cd vis
+: 1650505431:0;/home/haypp/code/webtorrent/node_modules/webtorrent-player/
+: 1650505443:0;cd /usr/share/webapps/
+: 1650505446:0;cd phpMyAdmin
+: 1650505462:0;composer update
+: 1650505548:0;systemctl restart lighttpd.service
+: 1650505555:0;systemctl status lighttpd.service
+: 1650505595:0;systemctl restart lighttpd.service
+: 1650505598:0;systemctl status lighttpd.service
+: 1650505826:0;sudo cp ~/code/webtorrent/node_modules/webtorrent-player/ .
+: 1650505835:0;sudo cp -r ~/code/webtorrent/node_modules/webtorrent-player/ .
+: 1650505836:0;ls
+: 1650505840:0;cd webtorrent-player/
+: 1650505878:0;systemctl restart lighttpd.service
+: 1650505882:0;systemctl status lighttpd.service
+: 1650512799:0;yare neofetch
+: 1650512811:0;cd ~/Downloads
+: 1650512816:0;neofetch
+: 1650512824:0;sudo pacman -U neofetch-7.1.0-2-any.pkg.tar.zst
+: 1650512934:0;ls
+: 1650512958:0;sudo pacman -U neofetch-6.1.0.tar.gz
+: 1650512970:0;sudo pacman -U neofetch-7.1.0-2-any.pkg.tar.zst
+: 1650512981:0;neofetch
+: 1650513069:0;./neofetch
+: 1650513075:0;./neofetch --version
+: 1650513086:0;neofetch --version
+: 1650513092:0;./neofetch
+: 1650513096:0;neofetch
+: 1650513217:0;sudo grub-mkconfig -o /boot/grub/grub.cfg
+: 1650513229:0;reboot
+: 1650552242:0;yain gparted
+: 1650552378:0;free -h
+: 1650554261:0;swapon --show
+: 1650554434:0;clear
+: 1650554438:0;exit
+: 1650813529:0;yay
+: 1650816053:0;systemctl restart reflector.service
+: 1650816061:0;yay
+: 1650816069:0;systemctl stop reflector.service
+: 1650816072:0;yay
+: 1650820604:0;ping 8.8.8.8
+: 1650820613:0;ping 8.8.8.8 -t
+: 1650820624:0;ping 8.8.8.8 -c 9999
+: 1650820650:0;ping 1.1.1.1 -c 10000
+: 1650820667:0;ping 9.9.9.9 -c 10000
+: 1650820675:0;ping 1.1.1.1 -c 10000
+: 1650952936:0;./neofetch
+: 1650952939:0;./neofetch -v
+: 1650952943:0;./neofetch --version
+: 1650952947:0;neofetch --version
+: 1650952955:0;neofetch -v
+: 1650952963:0;neofetch -h
+: 1650952967:0;neofetch --help
+: 1650953014:0;neofetch --loop
+: 1650953058:0;neofetch --gen-man
+: 1650953064:0;yain help2man
+: 1650953071:0;neofetch --gen-man
+: 1650953076:0;man neofetch
+: 1650953079:0;yain man
+: 1650953090:0;man neofetch
+: 1650953102:0;clear
+: 1650953107:0;poweroff
+: 1651240355:0;yay
+: 1651240533:0;sudo systemctl restart reflector.service
+: 1651240611:0;sudo systemctl stop reflector.service
+: 1651240614:0;yay
+: 1651240673:0;sudo pacman -Syyu
+: 1651240771:0;yay -S archlinux-keyring
+: 1651240780:0;sudo pacman -Syyu
+: 1651240994:0;htop
+: 1651242192:0;yay
+: 1651242237:0;yare system-monitoring-center
+: 1651242243:0;yay -c
+: 1651242456:0;yay
+: 1651372236:0;adb connect 192.168.0.3:5555
+: 1651592204:0;yay
+: 1651592377:0;yay -S archlinux-keyring
+: 1651592385:0;yay
+: 1651596515:0;upgrade
+: 1651596885:0;neofetch
+: 1651597233:0;poweroff
+: 1651601896:0;yain waydroid
+: 1651602028:0;waydroid init -s GAPPS -f
+: 1651602034:0;sudo waydroid init -s GAPPS -f
+: 1651603188:0;sudo systemctl start waydroid-container.service
+: 1651603248:0;waydroid show-full-ui
+: 1651603312:0;wawaydroid session start
+: 1651603317:0;waydroid session start
+: 1651603402:0;yain python-pyclip
+: 1651603447:0;yain wl-clipboard
+: 1651603457:0;waydroid session start
+: 1651603574:0;reboot
+: 1651603629:0;sudo systemctl start waydroid-container.service
+: 1651603636:0;waydroid session start
+: 1651995733:0;yay
+: 1652010614:0;poweroff
+: 1652015515:0;yay
+: 1652016993:0;rm -rf ~/.cache/yay/qogir-gtk-theme
+: 1652016995:0;yay
+: 1652018169:0;yain ukui
+: 1652018332:0;sudo systemctl disable sddm.service
+: 1652018344:0;sudo systemctl enable lightdm.service
+: 1652018358:0;reboot
+: 1652023434:0;yare ukui
+: 1652023451:0;yay -c
+: 1652057112:0;yay
+: 1652057135:0;yay -c
+: 1652057137:0;clear
+: 1652057143:0;cache_check
+: 1652057149:0;cache_check -q
+: 1652057156:0;clear
+: 1652057158:0;sum
+: 1652057170:0;sum 1 2
+: 1652057172:0;celar
+: 1652057176:0;yarem libpamac-nosnap pamac-nosnap
+: 1652057179:0;clear
+: 1652057182:0;exit
+: 1652057419:0;pacman -Q
+: 1652057986:0;yare spotify
+: 1652057991:0;yay -c
+: 1652058116:0;clear
+: 1652058131:0;yay
+: 1652058150:0;clear
+: 1652058153:0;exit
+: 1652062429:0;composer update
+: 1652071039:0;yay
+: 1652071091:0;clear
+: 1652083106:0;ping 1.1.1.1 -c 10000
+: 1652083119:0;ping 9.9.9.9 -c 10000
+: 1652091349:0;clear
+: 1652091352:0;exit
+: 1652102185:0;speedtest
+: 1652103090:0;spe
+: 1652103091:0;speedtest
+: 1652103100:0;ping 9.9.9.9 -c 10000
+: 1652115194:0;sp
+: 1652115197:0;speedtest
+: 1652142948:0;yay
+: 1652170343:0;yain mcpelauncher-msa-git mcpelauncher-msa-ui-qt-git mcpelauncher-linux-git mcpelauncher-ui-git lib32-libpulse lib32-alsa-plugins
+: 1652170988:0;./Minecraft_Bedrock_Launcher.AppImage
+: 1652204313:0;poweroff
+: 1652232479:0;yay
+: 1652233183:0;systemctl start waydroid-container.service
+: 1652233588:0;systemctl stop waydroid-container.service
+: 1652248744:0;yay
+: 1652250920:0;clear
+: 1652288351:0;yay
+: 1652339267:0;sudo systemctl start waydroid-container.service
+: 1652339282:0;sudo waydroid shell
+: 1652339361:0;sudo systemctl status waydroid-container.service
+: 1652339369:0;sudo systemctl stop waydroid-container.service
+: 1652339371:0;sudo systemctl start waydroid-container.service
+: 1652339373:0;sudo systemctl status waydroid-container.service
+: 1652339378:0;reboot
+: 1652339431:0;sudo systemctl status waydroid-container.service
+: 1652339449:0;sudo systemctl start waydroid-container.service
+: 1652339451:0;sudo systemctl status waydroid-container.service
+: 1652339567:0;sudo waydroid shell
+: 1652339711:0;sudo systemctl status waydroid-container.service
+: 1652339721:0;sudo systemctl restart waydroid-container.service
+: 1652339740:0;sudo systemctl status waydroid-container.service
+: 1652339766:0;sudo systemctl restart waydroid-container.service
+: 1652339769:0;sudo systemctl status waydroid-container.service
+: 1652339799:0;sudo waydroid shell
+: 1652339872:0;sudo systemctl status waydroid-container.service
+: 1652339886:0;clear
+: 1652339889:0;sudo systemctl restart waydroid-container.service
+: 1652339893:0;sudo systemctl status waydroid-container.service
+: 1652339921:0;clear
+: 1652339929:0;sudo systemctl status waydroid-container.service
+: 1652339933:0;sudo systemctl restart waydroid-container.service
+: 1652339936:0;sudo systemctl status waydroid-container.service
+: 1652339998:0;sudo micro /var/lib/waydroid/waydroid_base.prop
+: 1652340031:0;sudo systemctl restart waydroid-container.service
+: 1652340050:0;sudo systemctl status waydroid-container.service
+: 1652340069:0;sudo systemctl stop waydroid-container.service
+: 1652340071:0;waydroid init -s GAPPS -f
+: 1652340076:0;sudo waydroid init -s GAPPS -f
+: 1652340085:0;waydroid show-full-ui
+: 1652340116:0;waydroid upgrade
+: 1652340120:0;sudo waydroid upgrade
+: 1652340130:0;waydroid init -f
+: 1652340135:0;sudo waydroid init -f
+: 1652340159:0;waydroid init -s GAPPS -f
+: 1652340163:0;sudo waydroid init -s GAPPS -f
+: 1652340172:0;sudo waydroid init -f
+: 1652340204:0;sudo rm -rf /var/lib/waydroid /home/.waydroid
+: 1652340212:0;rm -rf ~/waydroid ~/.share/waydroid ~/.local/share/applications/*aydroid* ~/.local/share/waydroid
+: 1652340244:0;sudo waydroid init -f
+: 1652340302:0;clear
+: 1652340305:0;sudo rm -rf /var/lib/waydroid /home/.waydroid
+: 1652340309:0;rm -rf ~/waydroid ~/.share/waydroid ~/.local/share/applications/*aydroid* ~/.local/share/waydroid
+: 1652340314:0;sudo waydroid init -s GAPPS -f
+: 1652340997:0;sudo rm -rf /var/lib/waydroid /home/.waydroid
+: 1652340999:0;sudo waydroid init -s GAPPS -f
+: 1652343131:0;sudo systemctl restart waydroid-container.service
+: 1652343145:0;waydroid show-full-ui
+: 1652343158:0;sudo systemctl status waydroid-container.service
+: 1652343343:0;sudo micro /var/lib/waydroid/waydroid_base.prop
+: 1652343365:0;sudo systemctl restart waydroid-container.service
+: 1652343368:0;waydroid show-full-ui
+: 1652343450:0;sudo micro /var/lib/waydroid/waydroid_base.prop
+: 1652343461:0;sudo systemctl restart waydroid-container.service
+: 1652343463:0;waydroid show-full-ui
+: 1652343494:0;sudo waydroid shell
+: 1652343536:0;waydroid show-full-ui
+: 1652343639:0;ANDROID_RUNTIME_ROOT=/apex/com.android.runtime sqlite3 /data/data/com.google.android.gsf/databases/gservices.db "select * from main where name = \"android_id\";"
+: 1652343642:0;sudo waydroid shell
+: 1652343669:0;sudo micro /var/lib/waydroid/waydroid_base.prop
+: 1652343686:0;sudo systemctl restart waydroid-container.service
+: 1652343730:0;waydroid show-full-ui
+: 1652343847:0;sudo waydroid shell
+: 1652343925:0;reboot
+: 1652343977:0;sudo systemctl restart waydroid-container.service
+: 1652343987:0;sudo micro /var/lib/waydroid/waydroid_base.prop
+: 1652343996:0;sudo systemctl restart waydroid-container.service
+: 1652343999:0;sudo waydroid shell
+: 1652344008:0;waydroid show-full-ui
+: 1652345716:0;adb connect 192.168.250.112:5555
+: 1652345724:0;scrcpy
+: 1652345991:0;adb devices
+: 1652346051:0;sudo systemctl restart waydroid-container.service
+: 1652346059:0;waydroid show-full-ui
+: 1652346100:0;adb connect 192.168.0.3:5555
+: 1652346116:0;adb connect 192.168.250.112:5555
+: 1652346194:0;adb connect 192.168.43.200:5555
+: 1652346249:0;adb kill-server
+: 1652346251:0;adb connect 192.168.43.200:5555
+: 1652346283:0;adb connect 192.168.200.112:5555
+: 1652346299:0;adb connect 192.168.250.112:5555
+: 1652346380:0;adb kill-server
+: 1652346394:0;sudo systemctl stop\ waydroid-container.service
+: 1652346401:0;sudo systemctl stop waydroid-container.service
+: 1652346410:0;exit
+: 1652346443:0;free -h
+: 1652346865:0;yain firefox
+: 1652346870:0;clear
+: 1652346872:0;yare
+: 1652349554:0;yain quota
+: 1652349748:0;yain disk
+: 1652349760:0;yain gnome-disk-utility
+: 1652349860:0;yare virt-manager
+: 1652349864:0;yay -c
+: 1652349879:0;yare qemu
+: 1652349914:0;yare | pacman -Q | grep "qemu"
+: 1652349923:0;yare | pacman -Q | grep "qemu*"
+: 1652349935:0;pacman -R | grep "qemu*"
+: 1652349939:0;sudo pacman -R | grep "qemu*"
+: 1652349954:0;sudo pacman -R | pacman -Q | grep "qemu*"
+: 1652349973:0;yare libvirt
+: 1652350010:0;yare qemu-block-curl
+: 1652350017:0;yare qemu-desktop \
+: 1652350018:0;yare qemu-desktop
+: 1652350020:0;yay -c
+: 1652350037:0;yare arandr
+: 1652350181:0;yare gnome-disk-utility
+: 1652350192:0;yain konqueror
+: 1652350220:0;yare konqueror
+: 1652350236:0;yain fileliht
+: 1652350240:0;yain filelight
+: 1652350336:0;yare filelight
+: 1652350346:0;yain baobab
+: 1652350454:0;yare bottles
+: 1652350915:0;yain sweeper
+: 1652350965:0;yare sweeper
+: 1652351379:0;cd /mnt/hiburan1
+: 1652351392:0;sudo rm -rf matlab
+: 1652351686:0;yare heroic-games-launcher-bin
+: 1652351691:0;yay -c
+: 1652368359:0;sudo baobab
+: 1652381269:0;free -h
+: 1652381280:0;neofetch
+: 1652381295:0;sudo micro /etc/default/grub
+: 1652381330:0;sudo grub-mkconfig -o /boot/grub/grub.cfg
+: 1652381340:0;reboot
+: 1652426898:0;htop
+: 1652426915:0;free -h
+: 1652426935:0;sudo nano /etc/fstab
+: 1652426958:0;cd /
+: 1652426961:0;ls
+: 1652426964:0;clear
+: 1652427021:0;yare steam
+: 1652427025:0;yay -c
+: 1652427032:0;yare wine-staging
+: 1652427037:0;yare wine-staging winetricks
+: 1652427041:0;yay -c
+: 1652507722:0;yay
+: 1652511183:0;reboot
+: 1652523952:0;yay
+: 1652527992:0;yare qogir-gtk-theme
+: 1652528001:0;yain qogir-gtk-theme
+: 1652528068:0;yain kvantum-theme-qogir-git
+: 1652541559:0;yare kvantum-theme-qogir-git kvantum
+: 1652632150:0;free -h
+: 1652632160:0;neofetch
+: 1652632166:0;htop
+: 1652689855:0;free -h
+: 1652719323:0;yay
+: 1652720267:0;yarem mangohud mangohud-common
+: 1652720274:0;yarem mangohud mangohud-common goverlay
+: 1652720283:0;yare teamviewer
+: 1652720287:0;yay -c
+: 1652720289:0;celar
+: 1652720316:0;yay
+: 1652720326:0;clear
+: 1652720359:0;pacman-Qqm
+: 1652720362:0;pacman -Qqm
+: 1652720389:0;yare droidcam
+: 1652720404:0;yay -c
+: 1652720407:0;clear
+: 1652720425:0;AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+: 1652720433:0;cat AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+: 1652755266:0;adb connect 192.168.43.200:5555
+: 1652759559:0;pacman -Q
+: 1652760544:0;free -h
+: 1652768222:0;yay
+: 1652770877:0;wine --version
+: 1652770882:0;clear
+: 1652771381:0;yain qtwebsockets
+: 1652771389:0;yain qml
+: 1652771898:0;yain kvantum-theme-layan-git
+: 1652772636:0;yare tela-icon-theme
+: 1652772698:0;yare qogir-gtk-theme
+: 1652772704:0;yay -c
+: 1652773138:0;yain latte-dock
+: 1652774661:0;yare thunar
+: 1652774668:0;yay -c
+: 1652774899:0;neofetch
+: 1652774903:0;clear
+: 1652774906:0;neofetch
+: 1652774913:0;free -h
+: 1652775317:0;reboot
+: 1652775399:0;neofetch
+: 1652775411:0;clr
+: 1652775414:0;clear
+: 1652775415:0;cl
+: 1652775421:0;clear
+: 1652775439:0;neofetch
+: 1652775443:0;free -h
+: 1652776767:0;speedtest
+: 1652795286:0;pacman -Q |grep "wps"
+: 1652795302:0;yain onlyoffice-bin
+: 1652795746:0;yain ttf-ms-fonts
+: 1652799886:0;yare knopwob
+: 1652799894:0;yare dunst
+: 1652800438:0;yare wps-office ttf-wps-fonts
+: 1652800447:0;yay -c
+: 1652800536:0;yain linux-tools
+: 1652801671:0;yay
+: 1652801699:0;pacman -Q |grep "32"
+: 1652801715:0;yare lin32-wayland
+: 1652801718:0;yare lib32-wayland
+: 1652801724:0;yare lib32-mesa
+: 1652801734:0;yare lib32-mesa lib32-liblvnd
+: 1652801739:0;yare lib32-mesa lib32-libglvnd
+: 1652801750:0;yare lib32-mesa lib32-libglvnd lib32-nvidia-utils
+: 1652801758:0;yay -c
+: 1652801763:0;pacman -Q |grep "32"
+: 1652801784:0;yare lib32-xz
+: 1652801789:0;yare lib32-systemd
+: 1652801794:0;yare lib32-pipewire
+: 1652801822:0;yare lib32-dusb lib32-libusb
+: 1652801829:0;yare lib32-dbus lib32-libusb
+: 1652801835:0;yay -c\
+: 1652801836:0;yay -c
+: 1652801844:0;pacman -Q |grep "32"
+: 1652801879:0;yare lib32-zlib
+: 1652801885:0;yare lib32-cairo
+: 1652801897:0;yare lib32-cairo lib32-pango
+: 1652801909:0;yare lib32-cairo lib32-pango lib32-librsvg
+: 1652801913:0;yay -c
+: 1652801918:0;pacman -Q |grep "32"
+: 1652801935:0;yare lib32-alc
+: 1652801942:0;yare lib32-acl
+: 1652801953:0;yare lib32-zlip
+: 1652801957:0;yare lib32-zlib
+: 1652801966:0;yare lib32-zlib lib32-libxml2
+: 1652801975:0;yare lib32-zlib lib32-libxml2 lib32-glib2
+: 1652801983:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng
+: 1652801993:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2
+: 1652802003:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2 lib32-libtiff
+: 1652802016:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2 lib32-libtiff lib32-lcms2
+: 1652802028:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2 lib32-libtiff lib32-lcms2 lib32-freetype2
+: 1652802035:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2 lib32-libtiff lib32-lcms2 lib32-freetype2 lib32-gdk-pixbuf2
+: 1652802042:0;yare lib32-zlib lib32-libxml2 lib32-glib2 lib32-libpng lib32-libssh2 lib32-libtiff lib32-lcms2 lib32-freetype2 lib32-gdk-pixbuf2 lib32-harfbuzz
+: 1652802047:0;yay -c
+: 1652802054:0;pacman -Q |grep "32"
+: 1652802067:0;yare lib32-openssl
+: 1652802081:0;yare lib32-openssl lib32-libldap
+: 1652802087:0;yare lib32-openssl lib32-libldap lib32-krb5
+: 1652802100:0;yare lib32-openssl lib32-libldap lib32-krb5 lib32-libtirpc
+: 1652802107:0;yare lib32-openssl lib32-libldap lib32-krb5 lib32-libtirpc lib32-pam
+: 1652802115:0;yare lib32-openssl lib32-libldap lib32-krb5 lib32-libtirpc lib32-pam lib32-libcap
+: 1652802122:0;yare lib32-openssl lib32-libldap lib32-krb5 lib32-libtirpc lib32-pam lib32-libcap lib32-libcap
+: 1652802132:0;yare lib32-openssl lib32-libldap lib32-krb5 lib32-libtirpc lib32-pam lib32-libcap lib32-libcap lib32-keyutils
+: 1652802140:0;yay -c
+: 1652802144:0;pacman -Q |grep "32"
+: 1652802165:0;yare lib32-util-linux
+: 1652802178:0;pacman -Q |grep "32"
+: 1652802192:0;pacman -R |grep "32"
+: 1652802224:0;yay lib32
+: 1652802234:0;yare lib32*
+: 1652802239:0;yare lib32- *
+: 1652802244:0;yare lib32-*
+: 1652802251:0;yare "lib32-*"
+: 1652802270:0;yare | pacman -Q | grep "32"
+: 1652802279:0;yare < pacman -Q | grep "32"
+: 1652802295:0;pacman -Q | grep "32"
+: 1652802301:0;pacman -Q | grep "32" > uninstall.txt
+: 1652802317:0;yare uninstall.txt
+: 1652802348:0;poweroff
+: 1652892698:0;yain ncspot
+: 1652892764:0;ncspot
+: 1652892941:0;yain ueberzug
+: 1652892966:0;ncspot
+: 1652893072:0;yare spotify
+: 1652893360:0;yay
+: 1652893381:0;kvantummanager
+: 1652893391:0;yare gcc
+: 1652893402:0;yare libnm
+: 1652893407:0;yare libdap
+: 1652893413:0;yare libldap
+: 1652893425:0;yare upower
+: 1652893429:0;yare solid
+: 1652893433:0;yare kio
+: 1652893444:0;yay
+: 1652894456:0;yare nvidia
+: 1652894500:0;yare nvidia-dkms nvidia-prime nvidia-utils nvidia-settings
+: 1652894561:0;yain mesa
+: 1652894572:0;yain libva-intel-driver
+: 1652894584:0;yain libva-mesa-driver
+: 1652894610:0;yain mesa-vdpau
+: 1652894733:0;yain xf86-video-nouveau
+: 1652894748:0;yain libdrm
+: 1652894785:0;sudo micro /etc/mkinitcpio.conf
+: 1652894899:0;cd /usr/lib/modprobe.d
+: 1652894909:0;cat nvdimm-security.conf
+: 1652894926:0;sudo mv nvdimm-security.conf.bak
+: 1652894933:0;ls
+: 1652894945:0;cd /etc/modprobe.d
+: 1652894946:0;ls
+: 1652894950:0;cat droidcam.conf
+: 1652894963:0;sudo rm droidcam.conf
+: 1652895022:0;sudo micro /etc/X11/xorg.conf.d
+: 1652895031:0;sudo micro /etc/X11/xorg.conf
+: 1652895039:0;cd /etc/X11/xorg.conf.d
+: 1652895040:0;ls
+: 1652895044:0;reboot
+: 1652897436:0;btop
+: 1652897440:0;ncspot
+: 1652897490:0;htop
+: 1652898370:0;ncspot
+: 1652899550:0;yain spotify-tui
+: 1652899648:0;spotify-tui
+: 1652899650:0;spotify-tui-bin
+: 1652899658:0;yare spotify-tui-bin
+: 1652899662:0;yare spotify-tui
+: 1652899666:0;yain spotify-tui
+: 1652899744:0;yain ncspot
+: 1652899765:0;yare ncspot-bin
+: 1652899768:0;yain ncspot
+: 1652899775:0;yain spotify-tui
+: 1652900525:0;btop
+: 1652900585:0;spotify-tui
+: 1652900684:0;spt
+: 1652900693:0;yain ncspot
+: 1652900887:0;spt
+: 1652901447:0;ncspot
+: 1652963057:0;onlyoffice-desktopeditors
+: 1652968014:0;ncspot
+: 1652976506:0;poweroff
+: 1653044536:0;yay
+: 1653044632:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1653044653:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1653044702:0;cd /etc/X11/xinit/xinitrc.d
+: 1653044704:0;ls
+: 1653044738:0;glxinfo | grep "OpenGL renderer"
+: 1653044745:0;vulkaninfo
+: 1653044783:0;yain xf86-video-nouveau xf86-video-intel
+: 1653044808:0;vulkaninfo
+: 1653044809:0;yain xf86-video-nouveau xf86-video-intel
+: 1653044855:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1653044859:0;DRI_PRIME=3 glxinfo | grep "OpenGL renderer"
+: 1653044865:0;DRI_PRIME=4 glxinfo | grep "OpenGL renderer"
+: 1653044869:0;DRI_PRIME=44 glxinfo | grep "OpenGL renderer"
+: 1653044873:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1653044890:0;DRI_PRIME=1 vulkaninfo
+: 1653044932:0;yain vulkan-icd-loader
+: 1653044943:0;yain nvidia-utils
+: 1653044979:0;optimus-manager --status
+: 1653046548:0;yay
+: 1653046906:0;reboot
+: 1653047113:0;yay
+: 1653204353:0;poweroff
+: 1653315779:0;mpv --no-video Chloe\ Pawapua\ Ch.ã€ƒ®\ Re_Memories\ ã€ƒ¯\ -\ Lagu_.mp3
+: 1653315801:0;mpv Chloe\ Pawapua\ Ch.ã€ƒ®\ Re_Memories\ ã€ƒ¯\ -\ Lagu_.mp3
+: 1653362860:0;yay
+: 1653363439:0;adb connect 192.168.200.231:5555
+: 1653363443:0;scrcpy
+: 1653363499:0;cd code/ci4
+: 1653363505:0;php spark serve
+: 1653363541:0;code ~/code/ci4
+: 1653363545:0;php spark serve
+: 1653364078:0;sh ./phpmyadmin.sh
+: 1653364080:0;ls
+: 1653364091:0;cd
+: 1653364095:0;sh ./phpmyadmin.sh
+: 1653364999:0;composer update
+: 1653365009:0;composer fund
+: 1653365040:0;php spark serve
+: 1653399536:0;git clone https://github.com/rjial/prak_ppb1_responsi1
+: 1653399578:0;yay
+: 1653399679:0;yare orchis-theme
+: 1653399685:0;neofetch
+: 1653399703:0;clear
+: 1653399705:0;exit
+: 1653401168:0;yain firefox
+: 1653402541:0;yarem firefox
+: 1653402559:0;yare wl-clipboard
+: 1653402573:0;micro
+: 1653438097:0;free -h
+: 1653438130:0;neofetch
+: 1653531808:0;adb connect 192.168.43.200:5555
+: 1653534762:0;free -h
+: 1653537525:0;neofetch
+: 1653554869:0;yay
+: 1653556344:0;poweroff
+: 1653636929:0;free -h
+: 1653888380:0;adb connect 192.168.43.200:5555
+: 1653888866:0;yay
+: 1653912711:0;adb connect 192.168.43.200:5555
+: 1653967770:0;speedtest
+: 1653967873:0;code ~/code/ci4
+: 1653967889:0;php spark serve
+: 1653967996:0;sh ./phpmyadmin.sh
+: 1653969042:0;yay
+: 1653990951:0;adb connect 192.168.43.200:5555
+: 1653990990:0;scrcpy
+: 1653991018:0;scrcpy -b 5000
+: 1653991046:0;scrcpy -b 2000
+: 1653991186:0;adb kill-server
+: 1653991189:0;adb connect 192.168.43.200:5555
+: 1653991504:0;scrcpy -b 2000
+: 1653991552:0;adb devices
+: 1653991692:0;scrcpy -b 2000
+: 1653991702:0;scrcpy
+: 1653991718:0;scrcpy -b 5000
+: 1653991725:0;scrcpy -b 15000
+: 1653991733:0;scrcpy -b 10000
+: 1653991742:0;scrcpy
+: 1653991783:0;scrcpy -b 10000
+: 1653991999:0;scrcpy -b 20000
+: 1653992061:0;scrcpy -b 220000
+: 1653992072:0;scrcpy
+: 1653992108:0;scrcpy -h
+: 1653992150:0;scrcpy
+: 1653992382:0;scrcpy -p
+: 1653992386:0;scrcpy -h
+: 1653992488:0;scrcpy -S --always-on-top --disable-screensaver
+: 1653992594:0;scrcpy -S --always-on-top --disable-screensaver --rotation=2
+: 1653992600:0;scrcpy -S --always-on-top --disable-screensaver --rotation=3
+: 1653992620:0;scrcpy -S --always-on-top --disable-screensaver --rotation=4
+: 1653992626:0;1
+: 1653992629:0;scrcpy -S --always-on-top --disable-screensaver --rotation=1
+: 1653992658:0;scrcpy -S --always-on-top --disable-screensaver \ 
+: 1653992659:0;scrcpy -S --always-on-top --disable-screensaver
+: 1653992970:0;scrcpy --always-on-top --disable-screensaver
+: 1653996564:0;yay
+: 1653996686:0;speedtest
+: 1653998765:0;adb connect 192.168.43.200:5555
+: 1654052954:0;speedtest
+: 1654133922:0;code ~/code/ci4
+: 1654133929:0;sh ./phpmyadmin.sh
+: 1654133933:0;yay
+: 1654134102:0;php spark serve
+: 1654501473:0;yay
+: 1654503253:0;cd code
+: 1654503255:0;ls
+: 1654503276:0;cd ~/AndroidStudioProjects
+: 1654503285:0;mkdir random
+: 1654503290:0;cd random
+: 1654503296:0;git clone https://github.com/rjial/prak_ppb1_tugas5.git
+: 1654509609:0;
+: 1654509285:0;bash ; bash ; bash
+: 1654509441:0;micro .ba
+: 1654509448:0;micro .bash_history
+: 1654509468:0;yay
+: 1654509548:0;clear
+: 1654509563:0;micro .config/zsh/.zshrc
+: 1654509609:0;exit
+: 1654509622:0;mc phpmyadmin.sh
+: 1654509627:0;exit
+: 1654510091:0;XDG_SESSION_TYPE
+: 1654510095:0;$XDG_SESSION_TYPE
+: 1654510097:0;clear
+: 1654510100:0;clr
+: 1654510102:0;c
+: 1654510104:0;clear
+: 1654510106:0;exit
+: 1654510157:0;neofetch
+: 1654512371:0;adb connect 192.168.43.200:5555
+: 1654512613:0;free -h
+: 1654512714:0;gcl https://github.com/rjial/prak_ppb1_tugas5.git
+: 1654514672:0;adb connect 192.168.43.200:5555
+: 1654535728:0;git config --global user.email "reyjuna.al@gmail.com"
+: 1654535740:0;git config --global user.name "haypp"
+: 1654535917:0;git config --global init.defaultBranch master
+: 1654536063:0;git remote add origin https://github.com/haypp/Tugas5_NavDraw.git
+: 1654536076:0;git branch -M main
+: 1654536081:0;git push -u origin main
+: 1654536243:0;git config --global init.defaultBranch main
+: 1654536261:0;git push -u origin main
+: 1654537176:0;yay
+: 1654537639:0;spotify-tui
+: 1654537644:0;spotify
+: 1654537782:0;ncspot
+: 1654573127:0;yay
+: 1654573175:0;ncspot
+: 1654573561:0;sh ./phpmyadmin.sh
+: 1654573763:0;php spark serve
+: 1654574053:0;mysql -u root -p
+: 1654574068:0;mysql -u haypp -p
+: 1654574075:0;sudo mysql -u haypp -p
+: 1654574082:0;sudo mysql -u root -p
+: 1654574128:0;yain phpmyadmin
+: 1654574216:0;mc /etc/lighttpd/lighttpd.conf
+: 1654574239:0;sudo mc /etc/lighttpd/lighttpd.conf
+: 1654574249:0;sudo micro /etc/lighttpd/lighttpd.conf
+: 1654574275:0;sudo systemctl restart lightdm-plymouth.service
+: 1654574280:0;sudo systemctl restart lighttpd.service
+: 1654574385:0;php spark serve
+: 1654575980:0;sudo systemctl stop lighttpd.service
+: 1654575990:0;sudo systemctl stop mariadb.service
+: 1654575992:0;clear
+: 1654575994:0;yay
+: 1654576231:0;adb connect 192.168.200.45:5555
+: 1654576241:0;adb connect 192.168.200.42:5555
+: 1654577178:0;cd code/ci4
+: 1654577184:0;cd
+: 1654577189:0;sh ./phpmyadmin.sh
+: 1654577194:0;cd code/ci4
+: 1654577201:0;php spark serve
+: 1654586871:0;adb connect 192.168.200.42:5555
+: 1654613448:0;git remote -v
+: 1654613454:0;clear
+: 1654613469:0;cd AndroidStudioProjects/Praktikum/Latiahan6_1
+: 1654613487:0;git fetch
+: 1654613495:0;ls
+: 1654613505:0;git pull
+: 1654613511:0;gpl
+: 1654613515:0;ls
+: 1654613530:0;cd ../Latihan6_2
+: 1654613533:0;ls
+: 1654613541:0;g remote -v
+: 1654613552:0;git push -u origin main
+: 1654613564:0;gp
+: 1654613572:0;gp origin main
+: 1654615512:0;gp
+: 1654615523:0;git pull
+: 1654615532:0;clear
+: 1654615535:0;exit
+: 1654615949:0;htop
+: 1654652174:0;yay
+: 1654653126:0;yain linux-firmware
+: 1654653155:0;yain aic94xx-firmware
+: 1654653192:0;yain bfa
+: 1654653371:0;yain qla2xxx-firmware
+: 1654653577:0;pacman -Syu pipewire-media-session
+: 1654653582:0;sudo pacman -Syu pipewire-media-session
+: 1654655955:0;yay
+: 1654655969:0;exit
+: 1654672434:0;yay
+: 1654672782:0;yain drawio-desktop
+: 1654672802:0;clear
+: 1654672803:0;exit
+: 1654672965:0;cd code/
+: 1654672967:0;mkdir random
+: 1654672970:0;cd random
+: 1654672973:0;gcl https://github.com/Mygod/VPNHotspot
+: 1654673624:0;yain a0d
+: 1654673636:0;yain 0ad
+: 1654673654:0;wine
+: 1654673657:0;clear
+: 1654673661:0;free -h
+: 1654674802:0;sudo rm -rf dalvik-cache
+: 1654674822:0;cd ../../../..
+: 1654674829:0;cd Trash
+: 1654674830:0;la
+: 1654674832:0;ls
+: 1654674841:0;sudo rm -rf files
+: 1654674845:0;exit
+: 1654675018:0;sudo rm -rf /var/cache/pacman
+: 1654675023:0;ls
+: 1654675124:0;sudo rm -rf /var/lib/waydroid
+: 1654675130:0;sudo rm -rf /var/lib/flatpak
+: 1654675388:0;su
+: 1654675933:0;yain iotop
+: 1654675942:0;iotop
+: 1654675948:0;sudo iotop
+: 1654675958:0;yare iotop
+: 1654676027:0;swapoff
+: 1654676030:0;sudo swapoff
+: 1654676035:0;sudo swapoff /dev
+: 1654676038:0;ls
+: 1654676076:0;su
+: 1654676456:0;free -h
+: 1654676458:0;clear
+: 1654676472:0;free -h
+: 1654676475:0;clear
+: 1654676480:0;reboot
+: 1654676567:0;free -h
+: 1654755717:0;yay
+: 1654757297:0;yain virtualkeyboard
+: 1654758295:0;yain qt5-virtualkeyboard
+: 1654758315:0;sudo mc /etc/sddm.conf.d/virtualkbd.conf
+: 1654758319:0;mc /etc/sddm.conf.d/virtualkbd.conf
+: 1654758328:0;sudo micro /etc/sddm.conf.d/virtualkbd.conf
+: 1654758337:0;exit
+: 1654758468:0;qtvirtualkeyboard
+: 1654758477:0;virtualkeyboard
+: 1654758482:0;exit
+: 1654758533:0;clear
+: 1654758548:0;exit
+: 1654758556:0;clear
+: 1654758559:0;exit
+: 1654758578:0;sudo alias mc="micro"
+: 1654758588:0;mc
+: 1654758592:0;sudo mc
+: 1654758595:0;su
+: 1654758603:0;mc
+: 1654758617:0;poweroff
+: 1654796707:0;yay
+: 1655178003:0;adb devices
+: 1655178006:0;scrcpy --always-on-top --disable-screensaver
+: 1655178167:0;speedtest
+: 1655178200:0;sh ./phpmyadmin.sh
+: 1655178477:0;yay
+: 1655179451:0;reboot
+: 1655179852:0;ip a
+: 1655179860:0;speedtest
+: 1655179994:0;sh ./phpmyadmin.sh
+: 1655179999:0;ls
+: 1655180001:0;clear
+: 1655180020:0;neofetch
+: 1655180043:0;clear
+: 1655180045:0;clr
+: 1655180048:0;clear
+: 1655180051:0;yay
+: 1655182696:0;poweroff
+: 1655206057:0;ncspot
+: 1655208181:0;adb connect 192.168.43.200:5555
+: 1655215778:0;free -h
+: 1655223251:0;yay
+: 1655225407:0;poweroff
+: 1655359966:0;yya
+: 1655359967:0;yay
+: 1655360718:0;ncspot
+: 1655360796:0;speedtest
+: 1655362498:0;yay
+: 1655362516:0;yare libgbinder
+: 1655362523:0;neofetch
+: 1655363015:0;baobab
+: 1655474240:0;yay
+: 1655474883:0;yain paru
+: 1655475258:0;yain spotify-tui
+: 1655536206:0;yain osu
+: 1655536377:0;yain osu-lazer-bin
+: 1655536649:0;spt
+: 1655537135:0;adb connect 192.168.88.72:5555
+: 1655542168:0;spt
+: 1655542199:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655542233:0;systemctl --user status spotifyd.service
+: 1655542245:0;yain spotifyd
+: 1655542264:0;spt
+: 1655542485:0;systemctl --user status spotifyd.service
+: 1655542492:0;systemctl --user start spotifyd.service
+: 1655542497:0;systemctl --user status spotifyd.service
+: 1655542507:0;spt
+: 1655542768:0;systemctl --user status spotifyd.service
+: 1655542780:0;systemctl --user enable spotifyd.service
+: 1655542802:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655542870:0;touch ~/.config/spotifyd/spotifyd.conf
+: 1655542879:0;mkdir ~/.config/spotifyd/
+: 1655542880:0;touch ~/.config/spotifyd/spotifyd.conf
+: 1655542882:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655542922:0;systemctl --user restart spotifyd.service
+: 1655542928:0;spt
+: 1655543028:0;mc ~/.config/spotify-tui/client.yml
+: 1655543072:0;spt
+: 1655543136:0;mc ~/.config/spotify-tui/client.yml
+: 1655543151:0;spt
+: 1655543249:0;clear
+: 1655543268:0;mv ~/.config/spotify-tui/client.yml.bak
+: 1655543285:0;mv ~/.config/spotify-tui/client.yml ~/.config/spotify-tui/client.yml.bak
+: 1655543292:0;spt
+: 1655543301:0;systemctl --user restart spotifyd.service
+: 1655543303:0;spt
+: 1655543805:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655543896:0;systemctl --user restart spotifyd.service
+: 1655543901:0;systemctl --user status spotifyd.service
+: 1655543906:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655543914:0;systemctl --user restart spotifyd.service
+: 1655543916:0;systemctl --user status spotifyd.service
+: 1655543924:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655543932:0;systemctl --user restart spotifyd.service
+: 1655543936:0;systemctl --user status spotifyd.service
+: 1655543947:0;systemctl --user stop spotifyd.service
+: 1655543949:0;systemctl --user status spotifyd.service
+: 1655543957:0;systemctl --user restart spotifyd.service
+: 1655543958:0;systemctl --user status spotifyd.service
+: 1655543974:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655543987:0;systemctl --user status spotifyd.service
+: 1655543989:0;systemctl --user restart spotifyd.service
+: 1655543991:0;systemctl --user status spotifyd.service
+: 1655544001:0;yarem spotifyd
+: 1655544010:0;yain spotifyd
+: 1655544016:0;systemctl --user status spotifyd.service
+: 1655544028:0;systemctl --user restart spotifyd.service
+: 1655544083:0;spotifyd
+: 1655544090:0;spt
+: 1655544142:0;spotifyd
+: 1655544156:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544174:0;spotifyd
+: 1655544178:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544187:0;spotifyd
+: 1655544190:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544199:0;spotifyd
+: 1655544206:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544219:0;spotifyd
+: 1655544227:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544238:0;spotifyd
+: 1655544243:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544250:0;spotifyd
+: 1655544256:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655544270:0;spotifyd
+: 1655544274:0;spt
+: 1655544437:0;systemctl --user status spotifyd.service
+: 1655544453:0;spt
+: 1655544482:0;systemctl --user enable spotifyd.service
+: 1655544487:0;systemctl --user disable spotifyd.service
+: 1655544489:0;systemctl --user enable spotifyd.service
+: 1655544496:0;systemctl --user stop spotifyd.service
+: 1655544506:0;systemctl --user status spotifyd.service
+: 1655544533:0;spotifyd
+: 1655544545:0;killall spotifyd
+: 1655544561:0;systemctl --user status spotifyd.service
+: 1655544567:0;systemctl --user enable spotifyd.service
+: 1655544573:0;spt
+: 1655544585:0;systemctl --user status spotifyd.service
+: 1655544592:0;systemctl --user start spotifyd.service
+: 1655544593:0;systemctl --user status spotifyd.service
+: 1655544598:0;spt
+: 1655544625:0;systemctl --user stop spotifyd.service
+: 1655544630:0;systemctl --user start spotifyd.service
+: 1655544707:0;yarem ncspot
+: 1655544716:0;neofetch
+: 1655544861:0;spt
+: 1655545186:0;spt play joji
+: 1655545197:0;spt play --name joji
+: 1655545201:0;spt play --name "joji"
+: 1655545208:0;spt
+: 1655551198:0;yay
+: 1655551359:0;spt
+: 1655551383:0;systemctl --user start spotifyd.service
+: 1655551384:0;spt
+: 1655551393:0;systemctl --user status spotifyd.service
+: 1655551404:0;systemctl --user restart spotifyd.service
+: 1655551421:0;systemctl --user status spotifyd.service
+: 1655551438:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655551450:0;systemctl --user status spotifyd.service
+: 1655551456:0;systemctl --user restart spotifyd.service
+: 1655551459:0;systemctl --user status spotifyd.service
+: 1655551474:0;mc ~/.config/spotifyd/spotifyd.conf
+: 1655551485:0;systemctl --user restart spotifyd.service
+: 1655551488:0;spt
+: 1655551594:0;btop
+: 1655552063:0;spt
+: 1655552300:0;Xwayland
+: 1655552305:0;reboot
+: 1655553278:0;btop
+: 1655553816:0;spt
+: 1655636780:0;latte-dock
+: 1655636918:0;reboot
+: 1655638710:0;adb connect 192.168.88.72:5555
+: 1655639210:0;yay
+: 1655709942:0;ssh root@vis
+: 1655709950:0;ssh root@206.189.158.150
+: 1655710368:0;ssh haypp@206.189.158.150
+: 1655711592:0;exit
+: 1655712807:0;ssh-copy-id root@206.189.158.150
+: 1655712867:0;ssh-copy-id haypp@206.189.158.150
+: 1655712916:0;cat ~/.ssh/id_rsa.pub
+: 1655712951:0;cat ~/.ssh/id_rsa.pub | ssh root@206.189.158.150 "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"
+: 1655712962:0;cat ~/.ssh/id_rsa.pub
+: 1655713025:0;ssh-keygen
+: 1655713043:0;ssh-copy-id root@206.189.158.150
+: 1655713083:0;ssh root@206.189.158.150
+: 1655713172:0;ssh haypp@206.189.158.150
+: 1655713178:0;ssh root@206.189.158.150
+: 1655713335:0;celestia-appd tx staking delegate $VALOPER_ADDRESS 10000000utia --from=$WALLET --chain-id=$CHAIN_ID
+: 1655713547:0;ssh root@206.189.158.150
+: 1655722318:0;cd .ssh
+: 1655722325:0;cat id_rsa
+: 1655722966:0;spt
+: 1655722992:0;systemctl --user restart spotifyd.service
+: 1655722994:0;spt
+: 1655732218:0;ssh root@206.189.158.150
+: 1655733187:0;sp
+: 1655733189:0;spt
+: 1655733202:0;systemctl --user restart spotifyd.service
+: 1655733358:0;btop
+: 1655733370:0;latte-dock
+: 1655733683:0;ssh -t user gan
+: 1655733686:0;ssh -t userasd
+: 1655733694:0;ssh-keygen -t userasd
+: 1655734925:0;ssh root@206.189.158.150
+: 1655741761:0;spt
+: 1655742265:0;systemctl --user restart spotifyd.service
+: 1655742267:0;spt
+: 1655742349:0;cd ~/.config/spotifyd/
+: 1655742350:0;ls
+: 1655742355:0;cd ..
+: 1655742360:0;cd spotify-tui
+: 1655742366:0;mc client.yml
+: 1655742402:0;la
+: 1655742404:0;ls
+: 1655742417:0;mc config.yml
+: 1655742621:0;spt
+: 1655742675:0;mc config.yml
+: 1655742707:0;sptt
+: 1655742709:0;spt
+: 1655742799:0;#
+: 1655742804:0;ssh root@206.189.158.150
+: 1655743962:0;yay
+: 1655748945:0;spt
+: 1655749417:0;cd
+: 1655749422:0;clear
+: 1655749425:0;spt
+: 1655775838:0;reboot
+: 1655777471:0;ssh root@206.189.158.150
+: 1655783047:0;spt
+: 1655785018:0;yain aircrack-ng
+: 1655785087:0;yain wordlists
+: 1655785778:0;cd /usr/share/wordlists
+: 1655785779:0;l
+: 1655785783:0;cd seclists
+: 1655785793:0;cd Passwords
+: 1655785814:0;cd WiFi-WPA/
+: 1655785824:0;cat probable-v2-wpa-top62.txt
+: 1655785837:0;cat probable-v2-wpa-top4800.txt
+: 1655785882:0;sudo airmon-ng check kill
+: 1655785898:0;ip addr
+: 1655785906:0;iwconfig
+: 1655785920:0;sudo airmon-ng start wlan0
+: 1655785931:0;sudo airmon-ng start wlp3s0
+: 1655785937:0;iwconfig
+: 1655785947:0;sudo airmon-ng
+: 1655785955:0;iwconfig
+: 1655785982:0;sudo airodump-ng wlp3s0mon
+: 1655786208:0;sudo airodump-ng -w hack1 -c 2 --bssid F0:B4:D2:85:76:10 wlp3s0mon
+: 1655786409:0;sudo airodump-ng -w hackgo -c 5 --bssid F0:B4:D2:85:76:10 wlp3s0mon
+: 1655786414:0;sudo aireplay-ng --deauth 0 -a F0:B4:D2:85:76:10 wlp3s0mon
+: 1655786490:0;pwd
+: 1655786601:0;sudo airmon-ng stop wlp3s0mon
+: 1655786625:0;sudo airmon-ng check
+: 1655786629:0;sudo airmon-ng --help
+: 1655786650:0;sudo airmon-ng check kill
+: 1655786663:0;wpa_supplicant
+: 1655786684:0;reboot
+: 1655786826:0;yain wireshark
+: 1655787219:0;yain wireshark-gtk2
+: 1655788072:0;spt
+: 1655788093:0;systemctl --user restart spotifyd.service
+: 1655788098:0;spt
+: 1655788410:0;systemctl --user status spotifyd.service
+: 1655788442:0;cat /usr/lib/systemd/user/spotifyd.service
+: 1655788472:0;sudo micro /usr/lib/systemd/user/spotifyd.service
+: 1655788541:0;systemctl --user restart spotifyd.service
+: 1655788560:0;systemctl --user disable spotifyd.service
+: 1655788570:0;systemctl --user enable spotifyd.service
+: 1655788602:0;mc .config/systemd/user/default.target.wants/spotifyd.service
+: 1655788615:0;systemctl --user start spotifyd.service
+: 1655788620:0;systemctl --user status spotifyd.service
+: 1655789458:0;yain wireshark-gtk2
+: 1655789524:0;sudo usermod haypp add wireshark
+: 1655789591:0;sudo usermod -a -G wireshark haypp
+: 1655789604:0;sudo wireshark
+: 1655789622:0;sudo wireshark-gtk
+: 1655789631:0;wireshark-gtk
+: 1655789755:0;wireshark-gtk hackgo-01.cap
+: 1655789822:0;aircrack-ng hackgo-01.cap -w /usr/share/wordlists/seclists/Passwords/Leaked-Databases/rockyou.txt
+: 1655789908:0;wireshark-gtk hackgo-01.cap
+: 1655791666:0;spt
+: 1655800369:0;sudo airmon-ng check kill
+: 1655800381:0;sudo airmon-ng stop wlp3s0mon
+: 1655800393:0;sudo airmon-ng start wlp3s0mon
+: 1655800398:0;sudo airmon-ng start wlp3s0
+: 1655800406:0;sudo airmon-ng
+: 1655800409:0;ip addr
+: 1655800415:0;iwconfig
+: 1655800437:0;sudo airodump-ng -w hackgo -c 5 --bssid F0:B4:D2:85:76:10 wlp3s0mon
+: 1655800469:0;sudo aireplay-ng --deauth 0 -a F0:B4:D2:85:76:10 wlp3s0mon
+: 1655800500:0;sudo airodump-ng -w hackgolite -c 5 --bssid F0:B4:D2:85:76:10 wlp3s0mon
+: 1655800507:0;sudo aireplay-ng --deauth 0 -a F0:B4:D2:85:76:10 wlp3s0mon
+: 1655800550:0;aircrack-ng hackgolite-01.cap -w /usr/share/wordlists/seclists/Passwords/Leaked-Databases/rockyou.txt
+: 1655800633:0;cd /usr/share/wordlists
+: 1655800637:0;cd seclists
+: 1655800642:0;cd Pas
+: 1655800646:0;cd Passwords
+: 1655800650:0;cd WiFi-WPA
+: 1655800662:0;sudo rm -rf hack*
+: 1655800665:0;ls
+: 1655800689:0;aircrack-ng hackgolite-01.cap -w probable-v2-wpa-top62.txt
+: 1655800699:0;aircrack-ng ~/hackgolite-01.cap -w probable-v2-wpa-top62.txt
+: 1655800708:0;aircrack-ng ~/hackgolite-01.cap -w probable-v2-wpa-top447.txt
+: 1655800713:0;aircrack-ng ~/hackgolite-01.cap -w probable-v2-wpa-top4800.txt
+: 1655800727:0;cd ..
+: 1655800784:0;cd Leaked-Databases
+: 1655800814:0;aircrack-ng ~/hackgolite-01.cap -w 000webhost.txt
+: 1655801094:0;ls
+: 1655801096:0;la
+: 1655801099:0;ls -a
+: 1655801101:0;ls
+: 1655801118:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-05.txt
+: 1655801128:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-10.txt
+: 1655801132:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-15.txt
+: 1655801138:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-20.txt
+: 1655801141:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-25.txt
+: 1655801148:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-75.txt
+: 1655801179:0;aircrack-ng ~/hackgolite-01.cap -w rockyou-withcount.txt
+: 1655801200:0;aircrack-ng ~/hackgolite-01.cap -w muslimMatch.txt
+: 1655801243:0;ls
+: 1655801341:0;sudo systemctl restart network-online.target
+: 1655801389:0;sudo systemctl restart wpa_supplicant.service
+: 1655801402:0;sudo systemctl status wpa_supplicant.service
+: 1655801417:0;sudo aircrack-ng
+: 1655801428:0;sudo airmon-ng stop wlp3s0mon
+: 1655801431:0;iwconfig
+: 1655801458:0;reboot
+: 1655802654:0;ssh root@206.189.158.150
+: 1655802896:0;scp root@206.189.158.150
+: 1655802898:0;ls
+: 1655802927:0;scp hackgolite-01.cap root@206.189.158.150:/home/haypp
+: 1655803509:0;ssh root@206.189.158.150
+: 1655804227:0;adb connect 192.168.43.200:5555
+: 1655805318:0;yain sqlite
+: 1655805324:0;sqlite
+: 1655805325:0;sqlite3
+: 1655806126:0;ls
+: 1655806138:0;mkdir hack
+: 1655806141:0;cd hack
+: 1655806142:0;ls
+: 1655806145:0;git clone https://github.com/mychaelgo/indonesia-wordlist.git
+: 1655806150:0;cd indonesia-wordlist
+: 1655806150:0;ls
+: 1655806155:0;mv indonesian-wordlist.lst ..
+: 1655806158:0;ls
+: 1655806160:0;cd
+: 1655806164:0;cd hack
+: 1655806176:0;aircrack-ng ~/hackgolite-01.cap -w indonesian-wordlist.lst
+: 1655806213:0;ls
+: 1655806226:0;rm -rf *
+: 1655806231:0;ls
+: 1655806234:0;cd ..
+: 1655806300:0;cd hac
+: 1655806304:0;cd hack
+: 1655806307:0;git clone https://github.com/seno-adji/INDONESIAN-WORDLIST.git
+: 1655806315:0;cd INDONESIAN-WORDLIST
+: 1655806315:0;ls
+: 1655806329:0;aircrack-ng ~/hackgolite-01.cap -w 00-indonesian-wordlist.lst
+: 1655806363:0;ls
+: 1655806385:0;aircrack-ng ~/hackgolite-01.cap -w 01-kbbi3-2001-sort-alpha.lst 03-indodict2008-sort-alpha.lst 02-crawls-2005-sort-alpha.lst 04-myspell2006-sort-alpha.lst 05-ivanlanin2011-sort-alpha.lst
+: 1655806424:0;aircrack-ng ~/hackgolite-01.cap -w 02-crawls-2005-sort-alpha.lst
+: 1655806446:0;aircrack-ng ~/hackgolite-01.cap -w 03-indodict2008-sort-alpha.lst
+: 1655806469:0;aircrack-ng ~/hackgolite-01.cap -w 04-myspell2006-sort-alpha.lst
+: 1655806484:0;aircrack-ng ~/hackgolite-01.cap -w 05
+: 1655806488:0;aircrack-ng ~/hackgolite-01.cap -w 05-ivanlanin2011-sort-alpha.lst
+: 1655807786:0;yay
+: 1655809925:0;spt
+: 1655809935:0;spotifyd
+: 1655809938:0;spt
+: 1655819083:0;spotifyd
+: 1655819085:0;spt
+: 1655819599:0;systemctl --user status spotifyd.service
+: 1655819607:0;systemctl --user restart spotifyd.service
+: 1655819609:0;spt
+: 1655821105:0;cd code
+: 1655821113:0;gcl https://github.com/yourbeagle/Aktivitas8.git
+: 1655821163:0;ls
+: 1655821175:0;rm -rf Latihan_11.rar
+: 1655821176:0;ls
+: 1655821201:0;cd
+: 1655821202:0;sh ./phpmyadmin.sh
+: 1655822778:0;sudo micro /srv/http/index.html
+: 1655822984:0;cd code/Aktivitas8
+: 1655823059:0;sudo cp conn.php /srv/http
+: 1655823067:0;sudo cp login.php /srv/http
+: 1655823073:0;sudo cp register.php /srv/http
+: 1655823083:0;sudo cp validate.php /srv/http
+: 1655823950:0;ip addr
+: 1655824053:0;adb connect 192.168.0.10:5555
+: 1655824193:0;btop
+: 1655824218:0;latte-dock
+: 1655824230:0;latte-dock --no-deamon
+: 1655824236:0;latte-dock --help
+: 1655824247:0;latte-dock
+: 1655825399:0;cd
+: 1655825494:0;rm -rf hack*
+: 1655825496:0;ls
+: 1655825608:0;rm Tugas7.apk
+: 1655825611:0;rm Tugas7.zip
+: 1655825624:0;ls
+: 1655825723:0;systemctl status lighttpd.service
+: 1655825744:0;systemctl status mariadb.service
+: 1655825822:0;systemctl --user restart spotifyd.service
+: 1655825862:0;systemctl --user status spotifyd.service
+: 1655825869:0;systemctl --user stop spotifyd.service
+: 1655825874:0;systemctl --user status spotifyd.service
+: 1655825884:0;systemctl --user start spotifyd.service
+: 1655825885:0;systemctl --user status spotifyd.service
+: 1655825928:0;reboot
+: 1655826675:0;spt
+: 1655826941:0;speedtest
+: 1655827241:0;poweroff
+: 1655863138:0;yain hashcat
+: 1655863183:0;yain opencl-driver
+: 1655863811:0;spt
+: 1655863821:0;systemctl --user status spotifyd.service
+: 1655863845:0;systemctl --user restart spotifyd.service
+: 1655863847:0;systemctl --user status spotifyd.service
+: 1655863883:0;spt
+: 1655865553:0;yay
+: 1655865609:0;plasma-nm
+: 1655865612:0;clear
+: 1655865619:0;exit
+: 1655865975:0;adb connect 192.168.0.6:5555
+: 1655865977:0;ip addr
+: 1655866090:0;sh ./phpmyadmin.sh
+: 1655866410:0;sudo ufw status
+: 1655866416:0;sudo ufw stop
+: 1655866423:0;sudo ufw disable
+: 1655866428:0;sudo ufw status
+: 1655866633:0;sudo micro /srv/http/index.html
+: 1655866679:0;cd /srv/http
+: 1655866690:0;sudo micro phpinfo.php
+: 1655866708:0;sudo systemctl restart lighttpd.service
+: 1655866739:0;cat login.php
+: 1655866751:0;sudo micro login.php
+: 1655866933:0;ls
+: 1655867594:0;car register.php
+: 1655867596:0;cat register.php
+: 1655867643:0;sudo micro login.php
+: 1655867996:0;ls
+: 1655868005:0;sudo mv login.php login.php.bak
+: 1655868015:0;sudo micro login.php
+: 1655868147:0;cat login.php
+: 1655868246:0;sudo systemctl restart lighttpd.service
+: 1655868293:0;ip addr
+: 1655868390:0;adb connect 192.168.43.10:5555
+: 1655868405:0;adb connect 192.168.43.20:5555
+: 1655868414:0;adb connect 192.168.43.200:5555
+: 1655868454:0;sudo micro login.php
+: 1655868563:0;ip addr
+: 1655868593:0;adb connect 192.168.0.6:5555
+: 1655868666:0;adb kill-server
+: 1655868682:0;reboot
+: 1655868840:0;adb connect 192.168.0.6:5555
+: 1655868854:0;ip addr
+: 1655868930:0;sh ./phpmyadmin.sh
+: 1655868961:0;sudo micro /srv/http/index.html
+: 1655868966:0;sudo micro /srv/http/conn.php
+: 1655869000:0;systemctl restart lighttpd.service
+: 1655869048:0;cd /srv/http
+: 1655869055:0;cat login.php
+: 1655869068:0;cat conn.php
+: 1655869084:0;cat login.php.bak
+: 1655869108:0;cat login.php
+: 1655869286:0;cat conn.php
+: 1655869400:0;sudo micro conn.php
+: 1655870523:0;su
+: 1655870551:0;mysql -u root
+: 1655870554:0;mysql -u root -p
+: 1655870673:0;ls
+: 1655870687:0;sudo mkdir aktifitas8
+: 1655870693:0;ls
+: 1655870699:0;mv conn.php aktifitas8
+: 1655870704:0;sudo mv conn.php aktifitas8
+: 1655870705:0;ls
+: 1655870709:0;cd aktifitas8
+: 1655870836:0;php-
+: 1655870838:0;php-cgi --version
+: 1655870852:0;sudo micro /etc/lighttpd/conf.d/fastcgi.conf
+: 1655870881:0;sudo micro /etc/lighttpd/lighttpd.conf
+: 1655871031:0;sudo micro /etc/lighttpd/conf.d/fastcgi.conf
+: 1655871038:0;sudo micro /etc/lighttpd/lighttpd.con
+: 1655871052:0;sudo micro /etc/lighttpd/conf.d/fastcgi.conf
+: 1655871379:0;cd
+: 1655871383:0;cd /srv/http
+: 1655871384:0;ls
+: 1655871394:0;sudo micro indexx.php
+: 1655871433:0;cat login.php
+: 1655871450:0;sudo micro login.php
+: 1655871536:0;mc aktifitas8/conn.php conn.php
+: 1655871563:0;ls
+: 1655871568:0;cd aktifitas8
+: 1655871579:0;mv conn.php ../
+: 1655871583:0;sudo mv conn.php ../
+: 1655871584:0;ls
+: 1655871586:0;cd ..
+: 1655871586:0;ls
+: 1655871598:0;sudo micro conn.php
+: 1655871722:0;cat conn.php
+: 1655871735:0;code conn.php
+: 1655871809:0;cat conn.php
+: 1655871822:0;sudo micro conn.php
+: 1655871880:0;ls
+: 1655871899:0;sudo micro conn.php
+: 1655871956:0;systemctl restart lighttpd.service
+: 1655871971:0;systemctl stop lighttpd.service
+: 1655871984:0;systemctl start lighttpd.service
+: 1655871993:0;sudo micro conn.php
+: 1655872355:0;sudo mv login.php.bk
+: 1655872367:0;sudo mv login.php login.php.bk
+: 1655872369:0;ls
+: 1655872377:0;mv login.php.bak login.php
+: 1655872382:0;sudo mv login.php.bak login.php
+: 1655872383:0;ls
+: 1655872410:0;cat login.php
+: 1655872518:0;code lo
+: 1655872525:0;code login.php
+: 1655872641:0;sudo micro conn.php
+: 1655872904:0;spt
+: 1655873455:0;adb connect 192.168.0.6:5555
+: 1655873583:0;adb kill-server
+: 1655873591:0;adb connect 192.168.0.6:5555
+: 1655873601:0;adb devices
+: 1655873603:0;adb connect 192.168.0.6:5555
+: 1655875202:0;ls
+: 1655875206:0;cat register.php
+: 1655875221:0;car validate.php
+: 1655875225:0;cat validate.php
+: 1655875751:0;car validate.php
+: 1655875753:0;cat register.php
+: 1655875759:0;sudo micro conn.php
+: 1655875767:0;sudo micro register.php
+: 1655876148:0;spt
+: 1655876231:0;sp
+: 1655876232:0;spt
+: 1655876247:0;spotifyd
+: 1655876248:0;spt
+: 1655876756:0;spotifyd
+: 1655876761:0;killall spotifyd
+: 1655876762:0;spotifyd
+: 1655876916:0;killall spotifyd
+: 1655876923:0;spotifyd
+: 1655876935:0;killall spotifyd
+: 1655876944:0;systemctl --user status spotifyd.service
+: 1655876954:0;systemctl --user restart spotifyd.service
+: 1655902044:0;speedtest
+: 1655902431:0;cd Documents
+: 1655902437:0;cat haypp_secret_key_CASPER.pem
+: 1655902782:0;ssh root@206.189.158.150
+: 1655903928:0;ss
+: 1655903933:0;ssh root@206.189.158.150
+: 1655911320:0;spt
+: 1655911327:0;systemctl --user restart spotifyd.service
+: 1655911328:0;spt
+: 1655912777:0;ssh root@206.189.158.150
+: 1655914061:0;htop
+: 1655914100:0;yay
+: 1655914404:0;cd
+: 1655914415:0;rm -rf .cache/yay
+: 1655914418:0;ls
+: 1655914422:0;baobab
+: 1655916946:0;ssh root@206.189.158.150
+: 1655949480:0;yay
+: 1655950119:0;yain cloudflared
+: 1655950157:0;mc aktifitas8/conn.php conn.php\
+mc
+: 1655950173:0;mc .ssh/config
+: 1655950301:0;ssh dude-homepage-corporation-muscles.trycloudflare.com
+: 1655950395:0;which cloudflared
+: 1655950414:0;mc .ssh/config
+: 1655950433:0;ssh dude-homepage-corporation-muscles.trycloudflare.com
+: 1655950613:0;ssh root@206.189.158.150
+: 1655950721:0;exit
+: 1655959034:0;ssh root@206.189.158.150
+: 1655983156:0;spt
+: 1655983162:0;systemctl --user restart spotifyd.service
+: 1655983163:0;spt
+: 1655983594:0;ssh root@206.189.158.150
+: 1655983885:0;htop
+: 1655983936:0;ssh root@206.189.158.150
+: 1655986166:0;#
+: 1655986550:0;?3
+: 1655986552:0;ssh root@206.189.158.150
+: 1655986812:0;which easyeffects
+: 1655986820:0;killall easyeffect
+: 1655986841:0;easyeffects
+: 1655986897:0;ssh root@206.189.158.150
+: 1655989003:0;exit
+: 1655989017:0;yay
+: 1655989032:0;poweroff
+: 1656003895:0;ssh root@206.189.158.150
+: 1656004194:0;ls
+: 1656004199:0;cd .ssh
+: 1656004200:0;ls
+: 1656004216:0;cat config
+: 1656004254:0;ls
+: 1656004259:0;cat id_rsa
+: 1656004263:0;cat id_rsa.pub
+: 1656122190:0;ssh root@206.189.158.150
+: 1656122616:0;sh ./phpmyadmin.sh
+: 1656122623:0;ip addr
+: 1656122688:0;cd /srv/http
+: 1656122699:0;sudo mv register.php register.php.bk
+: 1656122705:0;sudo micro register.php
+: 1656122797:0;adb connect 192.168.88.77:5555
+: 1656122881:0;cat register.php
+: 1656123082:0;sudo micro register.php
+: 1656123437:0;yay
+: 1656128429:0;systemctl --user restart spotifyd.service
+: 1656128432:0;spt
+: 1656132386:0;adb connect 192.168.88.77:5555
+: 1656133369:0;code ~/code/ci4
+: 1656133430:0;php spark serve
+: 1656245171:0;sh ./phpmyadmin.sh
+: 1656245180:0;ls
+: 1656245189:0;code ~/code/ci4
+: 1656245218:0;php spark serve
+: 1656245544:0;spt
+: 1656248845:0;php spark migrate:create create_user
+: 1656248883:0;php spark migrate
+: 1656254611:0;$this->forge->dropTable('user');
+: 1656254671:0;php spark migrate:rollback
+: 1656254681:0;php spark migrate
+: 1656254858:0;chmod 777 -Rv /writable
+: 1656254896:0;chmod 777 -Rv rootproject/writable
+: 1656254905:0;chmod 777 -Rv ci4/writable
+: 1656254927:0;chmod 777 -Rv writable
+: 1656255161:0;composer update
+: 1656255187:0;php spark serve
+: 1656255214:0;composer update
+: 1656255225:0;php spark serve
+: 1656255243:0;
+: 1656255245:0;php spark serve
+: 1656255497:0;exit
+: 1656255507:0;php spark serve
+: 1656255516:0;php spark migrate
+: 1656255760:0;chmod 777 -Rv writable
+: 1656255764:0;php spark migrate
+: 1656255767:0;chmod 777 -Rv writable
+: 1656255774:0;chmod 777 -R writable
+: 1656256077:0;composer update --no-dev
+: 1656256084:0;php spark migrate
+: 1656256270:0;php spark app:info
+: 1656256281:0;php spark list
+: 1656256299:0;cp vendor/codeigniter4/framework/public/index.php public/index.php
+: 1656256306:0;cp vendor/codeigniter4/framework/spark
+: 1656256314:0;php spark app:info
+: 1656256339:0;composer update
+: 1656256385:0;cp vendor/codeigniter4/framework/public/index.php public/index.php
+: 1656256404:0;cp vendor/codeigniter4/framework/spark .
+: 1656256409:0;php spark app:info
+: 1656256414:0;php spark serve
+: 1656261218:0;yay
+: 1656261349:0;ls
+: 1656261353:0;uwf
+: 1656261356:0;yain uwf
+: 1656261382:0;yay -S sudo duktape easyeffect
+: 1656261404:0;yain easyeffect
+: 1656261407:0;yain easyeffects
+: 1656263522:0;poweroff
+: 1656331108:0;yay
+: 1656331143:0;systemctl restart reflector.service
+: 1656331152:0;yay
+: 1656331163:0;speedtest
+: 1656331237:0;yay
+: 1656332244:0;speedtest
+: 1656332861:0;yay
+: 1656332878:0;systemctl restart reflector.service
+: 1656332885:0;yay
+: 1656332913:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656332932:0;systemctl restart reflector.service
+: 1656332937:0;yay
+: 1656332949:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656332958:0;systemctl restart reflector.service
+: 1656332962:0;yay
+: 1656332969:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656332982:0;yay
+: 1656333005:0;reflector --help
+: 1656333028:0;reflector --list-countries
+: 1656333049:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333079:0;yay
+: 1656333083:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333094:0;yay
+: 1656333103:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333109:0;systemctl restart reflector.service
+: 1656333111:0;yay
+: 1656333125:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333173:0;reflector --help
+: 1656333190:0;systemctl restart reflector.service
+: 1656333212:0;yay
+: 1656333277:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333282:0;yay
+: 1656333289:0;systemctl restart reflector.service
+: 1656333293:0;yay
+: 1656333304:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333312:0;yay
+: 1656333316:0;systemctl restart reflector.service
+: 1656333321:0;yay
+: 1656333331:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1656333354:0;systemctl restart reflector.service
+: 1656333373:0;yay
+: 1656333761:0;code ~/code/ci4
+: 1656333973:0;php spark serve
+: 1656334199:0;composer update
+: 1656334207:0;composer fund
+: 1656334247:0;yay
+: 1656334271:0;yain firefox
+: 1656334307:0;firefox
+: 1656334599:0;piihP
+: 1656334600:0;php spark serve
+: 1656337515:0;\
+sudo nano /etc/systemd/resolved.conf
+: 1656337544:0;\
+sudo micro /etc/systemd/resolved.conf
+: 1656337587:0;dig
+: 1656337615:0;speedtest
+: 1656337620:0;dig
+: 1656337630:0;\
+sudo micro /etc/systemd/resolved.conf
+: 1656337880:0;systemctl status resolved
+: 1656337906:0;sudo micro /etc/resolv.conf
+: 1656337934:0;dig
+: 1656337980:0;sudo micro /etc/resolv.conf
+: 1656337989:0;\
+sudo micro /etc/systemd/resolved.conf
+: 1656338002:0;sudo micro /etc/resolv.conf
+: 1656338045:0;yain openresolv
+: 1656338070:0;speedtest
+: 1656338085:0;yain openresolv
+: 1656338111:0;openresolv
+: 1656338151:0;\
+sudo micro /etc/resolvconf/resolv.conf.d/head
+: 1656338184:0;yain mkparents
+: 1656338196:0;\
+sudo micro /etc/resolvconf/resolv.conf.d
+: 1656338324:0;yare openresolv
+: 1656338396:0;cat /run/systemd/resolve/stub-resolv.conf
+: 1656338458:0;\
+cd /etc/systemd/resolved.conf
+: 1656338464:0;\
+cd /etc/systemd/
+: 1656338474:0;sudo micro resolved.conf
+: 1656338641:0;systemctl status systemd-resolved.service
+: 1656338648:0;systemctl start systemd-resolved.service
+: 1656338652:0;dig
+: 1656338667:0;systemctl status systemd-resolved.service
+: 1656338723:0;cat /etc/resolv.conf
+: 1656338741:0;sudo micro resolved.conf
+: 1656338764:0;systemctl status systemd-resolved.service
+: 1656338783:0;cat /etc/resolv.conf
+: 1656338813:0;cat /run/systemd/resolve/stub-resolv.conf
+: 1656338853:0;resolvectl status
+: 1656338887:0;sudo ln -rsf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
+: 1656338896:0;cat /etc/resolv.conf
+: 1656338909:0;dig
+: 1656338974:0;resolvectl status
+: 1656338988:0;dig
+: 1656339010:0;killall qbittorent
+: 1656339166:0;resolvectl status
+: 1656339289:0;dig
+: 1656340645:0;killall qbittorent
+: 1656340647:0;qbittorrent
+: 1656340888:0;ip addr
+: 1656341673:0;adb connect 192.168.18.18:5555
+: 1656345534:0;sh ./phpmyadmin.sh
+: 1656345536:0;cd
+: 1656345538:0;sh ./phpmyadmin.sh
+: 1656346611:0;yay
+: 1656384865:0;cat /etc/resolv.conf
+: 1656384870:0;systemctl status systemd-resolved.service
+: 1656384878:0;systemctl enable systemd-resolved.service
+: 1656384882:0;systemctl status systemd-resolved.service
+: 1656384889:0;systemctl start systemd-resolved.service
+: 1656384893:0;cat /etc/resolv.conf
+: 1656384911:0;yay
+: 1656385204:0;poweroff
+: 1656387446:0;sudo micro resolved.conf
+: 1656387478:0;dig
+: 1656387485:0;clear
+: 1656387550:0;cd /etc/systemd
+: 1656387553:0;sudo micro resolved.conf
+: 1656387626:0;cat /etc/resolv.conf
+: 1656387629:0;systemctl start systemd-resolved.service
+: 1656387634:0;systemctl restart systemd-resolved.service
+: 1656387638:0;cat /etc/resolv.conf
+: 1656387642:0;resolvectl status
+: 1656387727:0;dig
+: 1656387755:0;clear
+: 1656387871:0;code ~/code/ci4
+: 1656387897:0;php spark serve
+: 1656387979:0;clear
+: 1656387982:0;exit
+: 1656388003:0;cd /etc/systemd
+: 1656388014:0;cd network
+: 1656388015:0;ls
+: 1656388018:0;la
+: 1656388022:0;ls -a
+: 1656388026:0;ll
+: 1656388027:0;ls -l
+: 1656388029:0;clear
+: 1656388034:0;cd ..
+: 1656388035:0;ls
+: 1656388046:0;cat sleep.conf
+: 1656388058:0;cat timesyncd.conf
+: 1656388081:0;cat networkd.conf
+: 1656388088:0;clear
+: 1656388089:0;htop
+: 1656388101:0;clear
+: 1656388445:0;cd ~/code
+: 1656388446:0;ls
+: 1656388454:0;rm -rf .cache/yay
+: 1656388459:0;cd
+: 1656388460:0;rm -rf .cache/yay
+: 1656388464:0;clear
+: 1656388471:0;cd code
+: 1656388471:0;ls
+: 1656388477:0;rm Aktivitas8
+: 1656388484:0;ls
+: 1656388491:0;rm -rf Aktivitas8
+: 1656388492:0;ls
+: 1656388500:0;rm -rf webtorrent
+: 1656388501:0;ls
+: 1656388505:0;gcl https://github.com/malasngoding/login-multi-user-level-dengan-php-dan-mysqli
+: 1656388508:0;ls
+: 1656388518:0;mv login-multi-user-level-dengan-php-dan-mysqli login-multi
+: 1656388520:0;ls
+: 1656388524:0;cd login-multi
+: 1656388527:0;cd multi_user
+: 1656388540:0;cat cek_login.php
+: 1656388954:0;cd
+: 1656388956:0;sh
+: 1656388965:0;sh ./phpmyadmin.sh
+: 1656389254:0;sudo mv /etc/resolv.conf
+: 1656389267:0;sudo mv /etc/resolv.conf /etc/resolv.conf.bak
+: 1656389273:0;cat /etc/resolv.conf
+: 1656389285:0;sudo micro /etc/resolv.conf
+: 1656389327:0;cat /etc/resolv.conf
+: 1656389356:0;resolvectl status
+: 1656389365:0;cd /etc/systemd
+: 1656389370:0;sudo micro resolved.conf
+: 1656389521:0;nmcli connection modify @STIKI.wifi connection.mdns yes
+: 1656389524:0;resolvectl status
+: 1656389538:0;nmcli connection modify @STIKI.wifi connection.mdns no
+: 1656389541:0;nmcli connection modify @STIKI.wifi connection.mdns resolver
+: 1656389546:0;nmcli connection modify @STIKI.wifi connection.mdns resolve
+: 1656389551:0;resolvectl status
+: 1656389578:0;sudo micro resolved.conf
+: 1656389583:0;systemctl restart systemd-resolved.service
+: 1656389587:0;resolvectl status
+: 1656389600:0;sudo micro resolved.conf
+: 1656389607:0;systemctl restart systemd-resolved.service
+: 1656389609:0;sudo micro resolved.conf
+: 1656389612:0;resolvectl status
+: 1656389632:0;clear
+: 1656389634:0;yare
+: 1656389635:0;clear
+: 1656389646:0;core coredump.conf
+: 1656389650:0;yay
+: 1656389672:0;systemctl stop systemd-resolved.service
+: 1656389711:0;systemctl start systemd-resolved.service
+: 1656389808:0;cat /etc/resolv.conf
+: 1656391903:0;cd
+: 1656391905:0;cd code
+: 1656391913:0;rm -rf ci4-bak
+: 1656391915:0;ls
+: 1656391924:0;rm -rf fatim6
+: 1656391925:0;ls
+: 1656391942:0;composer create-project codeigniter4/appstarter login-mlm
+: 1656391974:0;code ~/code/login-mlm
+: 1656392007:0;cp env .env
+: 1656394259:0;yay
+: 1656403154:0;poweroff
+: 1656407398:0;yay
+: 1656407512:0;cloudflared
+: 1656407516:0;cloudflared 2022-06-22\ 08-23-48.mkv
+: 1656408046:0;ssh colors-southampton-container-message.trycloudflare.com
+: 1656408061:0;sudo ufw status
+: 1656408065:0;ssh colors-southampton-container-message.trycloudflare.com
+: 1656408086:0;cat .ssh/config
+: 1656408098:0;ssh colors-southampton-container-message.trycloudflare.com
+: 1656431076:0;speedtest
+: 1656431164:0;clear
+: 1656431166:0;speedtest
+: 1656431208:0;yay
+: 1656431230:0;yain kdenlive
+: 1656431301:0;reboot
+: 1656486104:0;resolvectl status
+: 1656486291:0;systemctl status systemd-resolved.service
+: 1656486300:0;systemctl stop systemd-resolved.service
+: 1656486308:0;systemctl disable systemd-resolved.service
+: 1656486343:0;sudo micro /etc/NetworkManager/NetworkManager.conf
+: 1656486368:0;sudo rm /etc/resolv.conf
+: 1656486369:0;ls
+: 1656486409:0;sudo rm /etc/resolv.conf
+: 1656486411:0;sudo micro /etc/NetworkManager/NetworkManager.conf
+: 1656486428:0;cat /etc/resolv.conf
+: 1656486457:0;cat /etc/systemd/resolved.conf
+: 1656486478:0;clear
+: 1656486487:0;yain dnscrypt
+: 1656486550:0;yay
+: 1656487298:0;neofetch
+: 1656487397:0;poweroff
+: 1656510259:0;sudo micro /etc/NetworkManager/NetworkManager.conf
+: 1656510266:0;reboot
+: 1656512113:0;yain dnscrypt-proxy
+: 1656512203:0;sudo micro /etc/dnscrypt-proxy/dnscrypt-proxy.toml
+: 1656512423:0;systemctl enable --now dnscrypt-proxy.service
+: 1656512436:0;systemctl disable --now dnscrypt-proxy.service
+: 1656512442:0;dig
+: 1656512446:0;systemctl disable --now dnscrypt-proxy.service
+: 1656512451:0;dig
+: 1656512521:0;systemctl status dnscrypt-proxy.service
+: 1656512538:0;systemctl start dnscrypt-proxy.service
+: 1656512545:0;systemctl status dnscrypt-proxy.service
+: 1656512658:0;sudo micro /etc/dnscrypt-proxy/dnscrypt-proxy.toml
+: 1656512773:0;systemctl restart dnscrypt-proxy.service
+: 1656512842:0;sudo micro /etc/dnscrypt-proxy/dnscrypt-proxy.toml
+: 1656512967:0;sudo chattr +i /etc/resolv.conf
+: 1656512977:0;sudo micro /etc/resolv.conf
+: 1656513032:0;sudo chattr +e /etc/resolv.conf
+: 1656513062:0;sudo chattr -i /etc/resolv.conf
+: 1656513065:0;sudo micro /etc/resolv.conf
+: 1656513076:0;sudo chattr +i /etc/resolv.conf
+: 1656513801:0;dig
+: 1656513824:0;dig google.com
+: 1656513837:0;dig archlinux.org
+: 1656513846:0;dig google.com
+: 1656513848:0;dig google.co.id
+: 1656513853:0;dig google.com
+: 1656513862:0;dig youtube.com
+: 1656513873:0;dig yahoo.jp
+: 1656513881:0;dig toonily
+: 1656513885:0;dig toonily.com
+: 1656514665:0;yay
+: 1656514792:0;yarem qbittorrent
+: 1656514803:0;cd .config/qBittorrent
+: 1656514806:0;cd ..
+: 1656514812:0;rm -rf qBittorrent
+: 1656514821:0;yain qbittorent
+: 1656514827:0;yain qBittorent
+: 1656514841:0;yain qbittorent
+: 1656514856:0;yain qbittorrent
+: 1656514864:0;qbittorrent
+: 1656557259:0;dig toonily.com
+: 1656557271:0;systemctl enable dnscrypt-proxy.service
+: 1656557279:0;systemctl enable --now dnscrypt-proxy.service
+: 1656569215:0;dig toonily.com
+: 1656569235:0;speedtest
+: 1656569348:0;ssh root@206.189.158.150
+: 1656569423:0;yay
+: 1656571215:0;yain nvidia
+: 1656571236:0;clear
+: 1656571363:0;sleep
+: 1656571366:0;sleep -h
+: 1656571369:0;sleep --help
+: 1656571390:0;sleep 1
+: 1656677086:0;poweroff
+: 1656763062:0;spt
+: 1656763138:0;systemctl restart --user spotifyd.service
+: 1656763140:0;spt
+: 1656763272:0;adb connect 192.168.88.75:43162
+: 1656763345:0;adb kill-server
+: 1656763726:0;cd co
+: 1656763729:0;cd code
+: 1656763730:0;ls
+: 1656763734:0;gcl https://github.com/arduia/ProExpense.git
+: 1656764025:0;systemctl restart --user spotifyd.service
+: 1656764030:0;spt
+: 1656764210:0;killall java
+: 1656764214:0;killall javac
+: 1656767529:0;systemctl stop --user spotifyd.service
+: 1656812612:0;htop
+: 1656812617:0;ssh root@206.189.158.150
+: 1656814961:0;sh ./phpmyadmin.sh
+: 1656845122:0;yain icoutils
+: 1656845136:0;man icoutils
+: 1656845140:0;icoutils
+: 1656845152:0;icontopbm
+: 1656845161:0;icontopbm --help
+: 1656845167:0;man icontopbm
+: 1656845305:0;icotool *.ani
+: 1656845314:0;icotool -x *.ani
+: 1656845320:0;icotool -x busy.ani
+: 1656845325:0;icotool -x Busy.ani
+: 1656845339:0;icotool -x -w -h Busy.ani
+: 1656845345:0;icotool -x -w Busy.ani
+: 1656845351:0;icotool -xwh Busy.ani
+: 1656845355:0;icotool -xw Busy.ani
+: 1656845372:0;icotool -xw -h Busy.ani
+: 1656845378:0;icotool -xw Busy.ani
+: 1656845381:0;icotool -xh Busy.ani
+: 1656845400:0;icotool -r Busy.ani
+: 1656845417:0;icotool -x Busy.ani -w-h
+: 1656845420:0;icotool -x Busy.ani -w -h
+: 1656845422:0;icotool -x Busy.ani -w
+: 1656845426:0;icotool -x Busy.ani
+: 1656845473:0;icotool -x Busy.ani -w -h
+: 1656845476:0;icotool -x Busy.ani -w-h
+: 1656845478:0;icotool -x Busy.ani -w
+: 1656845490:0;icotool -x Busy.ani --width=PIXELS
+: 1656845495:0;icotool -x Busy.ani --width=33
+: 1656845509:0;icotool -x Busy.ani
+: 1656845519:0;ls
+: 1656845528:0;icotool -x Move.ani
+: 1656845590:0;yain imagemagick
+: 1656845619:0;convert Busy.ani
+: 1656845625:0;convert Busy.ani Busy.png
+: 1656845636:0;yarem imagemagick
+: 1656845643:0;yare imagemagick
+: 1656845650:0;yay -c
+: 1656845660:0;meofetch
+: 1656845663:0;neofetch
+: 1656845673:0;htop
+: 1656849361:0;yain c
+: 1656849380:0;ls
+: 1656849383:0;cd code
+: 1656849384:0;ls
+: 1656849394:0;touch img.c
+: 1656849399:0;micro img.c
+: 1656849406:0;c img.c
+: 1656849411:0;c ./img.c
+: 1656849426:0;c
+: 1656849428:0;cc
+: 1656849429:0;c
+: 1656849433:0;clear
+: 1656849466:0;gcc img.c -o executable
+: 1656849477:0;./img.c
+: 1656849483:0;img.c
+: 1656849485:0;ls
+: 1656849499:0;chmod +X img.c
+: 1656849502:0;./img.c
+: 1656849507:0;/.img.c
+: 1656849509:0;.img.c
+: 1656849512:0;img.c
+: 1656849525:0;./img.c
+: 1656849534:0;./executable
+: 1656862990:0;yay
+: 1656866736:0;htop
+: 1656867054:0;reboot
+: 1656915426:0;yay
+: 1656915567:0;systemctl restart reflector.service
+: 1656915649:0;yay
+: 1656915698:0;speedtest
+: 1656915723:0;resolvectl status
+: 1656915760:0;sudo systemctl status resolve
+: 1656915771:0;dig
+: 1656915781:0;dig speedtest.net
+: 1656915788:0;systemctl restart reflector.service
+: 1656915826:0;speedtest
+: 1656916048:0;dig speedtest.net
+: 1656916050:0;yay
+: 1656936210:0;speedtest
+: 1656943630:0;yay
+: 1656944998:0;poweroff
+: 1656976691:0;yay
+: 1656976871:0;adb kill-server
+: 1656977041:0;adb devices
+: 1656977045:0;adb kill-server
+: 1656977051:0;adb devices
+: 1656977067:0;adb kill-server
+: 1656983056:0;speedtest
+: 1656983105:0;yay
+: 1656983725:0;scrcpy --always-on-top --disable-screensaver
+: 1656983784:0;adb kill-server
+: 1656983788:0;adb devices
+: 1656983790:0;adb kill-server
+: 1656983791:0;adb devices
+: 1656983793:0;scrcpy --always-on-top --disable-screensaver
+: 1656986410:0;scrcpy
+: 1656989077:0;ssh root@206.189.158.150
+: 1656992954:0;code ~/code/ci4
+: 1656993018:0;yay
+: 1656993030:0;exit
+: 1656993035:0;php spark serve
+: 1656993889:0;sh ./phpmyadmin.sh
+: 1656994192:0;cd code
+: 1656994195:0;gcl https://github.com/yourbeagle/MultilevelLogin.git
+: 1657022266:0;sh ./phpmyadmin.sh
+: 1657022268:0;cd
+: 1657022270:0;sh ./phpmyadmin.sh
+: 1657022436:0;adb devices
+: 1657022444:0;scrcpy
+: 1657028741:0;adb devices
+: 1657033665:0;yay
+: 1657033685:0;exit
+: 1657071605:0;adb devices
+: 1657072778:0;yay
+: 1657079692:0;yarem firefox
+: 1657079731:0;where firefox
+: 1657079734:0;firefox
+: 1657079738:0;exit
+: 1657079849:0;yay 0c
+: 1657079852:0;yay -c
+: 1657079856:0;clear
+: 1657079889:0;yay
+: 1657079898:0;exit
+: 1657081415:0;ping https://174.129.149.157/
+: 1657081423:0;ping 174.129.149.157
+: 1657082948:0;yay
+: 1657083417:0;resolvectl status
+: 1657083424:0;dig
+: 1657083429:0;dig speedtest.net
+: 1657083445:0;dig stiki.ac.id
+: 1657083450:0;exit
+: 1657083458:0;poweroff
+: 1657169449:0;systemctl restart --user spotifyd.service
+: 1657169454:0;spt
+: 1657169909:0;yare dunst
+: 1657174147:0;yay
+: 1657174242:0;yay -x
+: 1657174243:0;yay -c
+: 1657174259:0;pacman -Q
+: 1657174278:0;yare cairo
+: 1657174298:0;pacman -Q > pack.txt
+: 1657174305:0;kate pack.txt
+: 1657174339:0;yare a52dec
+: 1657174343:0;yare aalib
+: 1657174352:0;yare accountsservice
+: 1657174357:0;yare aha
+: 1657174368:0;yare aircrack-ng
+: 1657174379:0;yare aom
+: 1657174398:0;yare bluedevil
+: 1657174467:0;yay -c
+: 1657174482:0;yare ghostscript
+: 1657174500:0;yare glu
+: 1657174552:0;yare openal
+: 1657174642:0;yare zimg
+: 1657174727:0;yare waydroid
+: 1657174730:0;yay -c
+: 1657175036:0;htop
+: 1657175066:0;btop
+: 1657180341:0;yay
+: 1657185888:0;spt
+: 1657186307:0;adb devices
+: 1657193420:0;yay
+: 1657193545:0;exit
+: 1657194755:0;spt
+: 1657207103:0;adb devices
+: 1657208135:0;cd code
+: 1657208138:0;gcl https://github.com/yourbeagle/TugasAkhir_Cryptonesia.git
+: 1657278270:0;spt
+: 1657280562:0;killall spotifyd
+: 1657280569:0;systemctl restart --user spotifyd.service
+: 1657280571:0;spt
+: 1657286155:0;code ~/code/ci4
+: 1657286614:0;php spark serve
+: 1657286635:0;sh ./phpmyadmin.sh
+: 1657289006:0;php spark serve
+: 1657370246:0;cd code
+: 1657370282:0;composer create-project codeigniter4/appstarter UAS-201111028
+: 1657370299:0;code UAS-201111028/
+: 1657370428:0;php spark serve
+: 1657370856:0;code ci4/
+: 1657372841:0;systemctl restart --user spotifyd.service
+: 1657372927:0;sh ./phpmyadmin.sh
+: 1657373522:0;ip a
+: 1657434130:0;yay
+: 1657434226:0;sh ./phpmyadmin.sh
+: 1657434803:0;php spark serve
+: 1657435798:0;code code/UAS-201111028/
+: 1657435818:0;php spark serve
+: 1657459067:0;yay
+: 1657459622:0;yain code
+: 1657460814:0;yay code-marketplace
+: 1657460827:0;yain code-marketplace
+: 1657461052:0;yay
+: 1657461061:0;code code/UAS-201111028/
+: 1657461122:0;yain vscodium
+: 1657461143:0;yain code-features
+: 1657461188:0;code code/UAS-201111028/
+: 1657461474:0;php spark serve
+: 1657462422:0;yain osu
+: 1657462434:0;yain osu-lazer-bin
+: 1657462439:0;yain osu-lazer
+: 1657462651:0;yay -c
+: 1657462659:0;yain osu-lazer-bin
+: 1657462831:0;yain osu-handler
+: 1657462862:0;yay -c
+: 1657463579:0;sudo lspci -v | less
+: 1657463644:0;sudo lspci -v
+: 1657463713:0;glxinfo | grep "OpenGL renderer"
+: 1657463725:0;glxinfo -B
+: 1657463807:0;nvidia-smi
+: 1657463812:0;yain nvidia-smi
+: 1657464011:0;DRI_PRIME=1 vulkaninfo
+: 1657464019:0;DRI_PRIME=1 glxinfo
+: 1657464029:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657464035:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1657464041:0;DRI_PRIME=2 glxinfo | grep "OpenGL renderer"
+: 1657464045:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657464051:0;DRI_PRIME=1 osu-lazer
+: 1657464177:0;DRI_PRIME=0 osu-lazer
+: 1657464337:0;DRI_PRIME=1 osu-lazer
+: 1657464503:0;yain nvidia-dkms
+: 1657465283:0;reboot
+: 1657465335:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657465341:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1657465353:0;yain nvidia-prime
+: 1657465378:0;prime-run glxinfo | grep "OpenGL Renderer"
+: 1657465394:0;glxinfo | grep "OpenGL renderer"
+: 1657465400:0;prime-run glxinfo | grep "OpenGL renderer"
+: 1657465413:0;DRI-PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657465421:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657465426:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1657465430:0;nvidia-smi
+: 1657465441:0;yain nvidia
+: 1657465454:0;yain nvidia-lts
+: 1657465479:0;yare xf86-video-nouveau
+: 1657465484:0;reboot
+: 1657465529:0;prime-run glxinfo | grep "OpenGL renderer"
+: 1657465535:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1657465540:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657465547:0;yain nvidia-lts
+: 1657465583:0;reboot
+: 1657465633:0;prime-run glxinfo | grep "OpenGL renderer"
+: 1657465695:0;cat /etc/modprobe.d/blacklist-nvidia-nouveau.conf
+: 1657465731:0;sudo micro /etc/mkinitcpio.conf
+: 1657465812:0;sudo mkinitcpio -p linux-zen
+: 1657465832:0;sudo mkinitcpio -P
+: 1657465873:0;sudo micro /etc/mkinitcpio.conf
+: 1657465884:0;sudo mkinitcpio -P
+: 1657465921:0;sudo micro /etc/mkinitcpio.conf
+: 1657465928:0;sudo mkinitcpio -P
+: 1657465963:0;cd /etc/modprobe.d
+: 1657465964:0;ls
+: 1657465972:0;ls -l
+: 1657465974:0;ls -a
+: 1657465985:0;cd /usr/lib/modprobe.d
+: 1657465996:0;cat nvidia-utils.conf
+: 1657466025:0;yare nvidia-lts
+: 1657466035:0;ls
+: 1657466056:0;yain nvidia-dkms
+: 1657466565:0;reboot
+: 1657466618:0;prime-run glxinfo | grep "OpenGL renderer"
+: 1657466631:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657466637:0;DRI_PRIME=0 glxinfo | grep "OpenGL renderer"
+: 1657466642:0;DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+: 1657466654:0;prime-run osu-lazer
+: 1657466757:0;osu-lazer
+: 1657466829:0;yain lutris
+: 1657466869:0;yain lib32-gamemode
+: 1657466888:0;yain lib32-gamemode vkd3d
+: 1657467972:0;yain pcxsx2
+: 1657467978:0;yain pcsx2
+: 1657468470:0;prime-run pcsx2
+: 1657468887:0;pcsx2
+: 1657469539:0;yain lib32-opengl
+: 1657469652:0;sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
+: 1657469716:0;killall lutris
+: 1657469931:0;sudo pacman -Fs libgtk-x11-2.0.so.0
+: 1657469960:0;`pacman -Fs libgtk-x11-2.0.so.0   `
+: 1657469961:0;pacman -Fs libgtk-x11-2.0.so.0
+: 1657469965:0;pacman -F libgtk-x11-2.0.so.0
+: 1657469972:0;pacman -Fy libgtk-x11-2.0.so.0
+: 1657469975:0;pacman -FS libgtk-x11-2.0.so.0
+: 1657469979:0;pacman -F libgtk-x11-2.0.so.0
+: 1657469987:0;yain gtk2
+: 1657470003:0;sudo pacman -Qkk gtk2
+: 1657470008:0;sudo pacman -Q1 gtk2
+: 1657470011:0;sudo pacman -Qi gtk2
+: 1657470037:0;yain gtk2+extra
+: 1657470050:0;sudo pacman -Qi gtk2+extra
+: 1657470066:0;yare gtk2+extra
+: 1657470071:0;sudo pacman -Qi gtk2
+: 1657470242:0;sudo pacman -Syy gtk2
+: 1657470319:0;yain lib32-gtk2
+: 1657472226:0;yya
+: 1657472227:0;yay
+: 1657508105:0;yya
+: 1657510825:0;spt
+: 1657511345:0;yay
+: 1657511384:0;yare lib32-*
+: 1657511386:0;yare lib32
+: 1657511392:0;yare lutris
+: 1657511415:0;yare pcsx2
+: 1657511419:0;yay -c
+: 1657511432:0;yare lib32
+: 1657511437:0;yare lib32*
+: 1657511441:0;yare lib32-*
+: 1657511449:0;neofetch
+: 1657511460:0;yay -c
+: 1657511650:0;pacman -Q
+: 1657511737:0;yare lib32-gtk2
+: 1657511744:0;yare lib32-alsa-lib
+: 1657511753:0;yare lib32-gcc-libs
+: 1657511763:0;yare lib32-gcc-libs lib32-systemd
+: 1657511770:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils
+: 1657511777:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk
+: 1657511786:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre
+: 1657511797:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses
+: 1657511810:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses lib32-gamemode
+: 1657511828:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses lib32-gamemode lib32-readline
+: 1657511836:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses lib32-gamemode lib32-readline lib32-llvm-libs
+: 1657511843:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses lib32-gamemode lib32-readline lib32-llvm-libs lib32-mesa
+: 1657511852:0;yare lib32-gcc-libs lib32-systemd lib32-nvidia-utils lib32-atk lib32-pcre lib32-ncurses lib32-gamemode lib32-readline lib32-llvm-libs lib32-mesa lib32-flac
+: 1657511871:0;pacman -Q | grep "32" > uninstall.txt
+: 1657511886:0;pacman -Q | grep "32"
+: 1657511891:0;pacman -Q | grep "lib32"
+: 1657511906:0;pacman -Q | grep "lib32" >uninstall.txt
+: 1657512398:0;yare lib32-atk lib32-attr lib32-brotli lib32-bzip2 lib32-cairo lib32-curl lib32-dbus lib32-e2fsprogs lib32-expat lib32-flac lib32-fontconfig lib32-freetype2 lib32-fribidi lib32-gamemode lib32-gcc-libs lib32-gdk-pixbuf2 lib32-glib2 lib32-glibc lib32-gmp lib32-gnutls lib32-harfbuzz lib32-icu lib32-keyutilslib32-krb5 lib32-libcap lib32-libcups lib32-libdatrie lib32-libdrm lib32-libelf lib32-libffi lib32-libgcrypt lib32-libglvnd lib32-libgpg-error lib32-libidn2 lib32-libjpeg-turbo lib32-libldap lib32-libogg lib32-libpciaccess lib32-libpng lib32-libpsl lib32-libsndfile lib32-libssh2 lib32-libtasn1 lib32-libthai lib32-libtifflib32-libtirpc lib32-libunistring lib32-libunwind lib32-libvorbis lib32-libvpx1.3 lib32-libx11 lib32-libxaulib32-libxcb lib32-libxcomposite lib32-libxcrypt lib32-libxcursor lib32-libxdamage lib32-libxdmcp lib32-libxext lib32-libxfixes lib32-libxft lib32-libxi lib32-libxinerama lib32-libxml2 lib32-libxrandr lib32-libxrender lib32-libxshmfence lib32-libxxf86vm lib32-llvm-libs lib32-lm_sensors lib32-mesa lib32-ncurses lib32-nettle lib32-nvidia-utils lib32-openssl lib32-opus lib32-p11-kit lib32-pam lib32-pango lib32-pcre lib32-pixman lib32-readline lib32-systemd lib32-util-linux lib32-vulkan-icd-loader lib32-wayland lib32-xz lib32-zlib lib32-zstd\
+
+: 1657512466:0;yare lib32-atk lib32-attr lib32-brotli lib32-bzip2 lib32-cairo lib32-curl lib32-dbus lib32-e2fsprogs lib32-expat lib32-flac lib32-fontconfig lib32-freetype2 lib32-fribidi lib32-gamemode lib32-gcc-libs lib32-gdk-pixbuf2 lib32-glib2 lib32-glibc lib32-gmp lib32-gnutls lib32-harfbuzz lib32-icu lib32-libcap lib32-libcups lib32-libdatrie lib32-libdrm lib32-libelf lib32-libffi lib32-libgcrypt lib32-libglvnd lib32-libgpg-error lib32-libidn2 lib32-libjpeg-turbo lib32-libldap lib32-libogg lib32-libpciaccess lib32-libpng lib32-libpsl lib32-libsndfile lib32-libssh2 lib32-libtasn1 lib32-libthai lib32-libunistring lib32-libunwind lib32-libvorbis lib32-libvpx1.3 lib32-libx11 lib32-libxcomposite lib32-libxcrypt lib32-libxcursor lib32-libxdamage lib32-libxdmcp lib32-libxext lib32-libxfixes lib32-libxft lib32-libxi lib32-libxinerama lib32-libxml2 lib32-libxrandr lib32-libxrender lib32-libxshmfence lib32-libxxf86vm lib32-llvm-libs lib32-lm_sensors lib32-mesa lib32-ncurses lib32-nettle lib32-nvidia-utils lib32-openssl lib32-opus lib32-p11-kit lib32-pam lib32-pango lib32-pcre lib32-pixman lib32-readline lib32-systemd lib32-util-linux lib32-vulkan-icd-loader lib32-wayland lib32-xz lib32-zlib lib32-zstd
+: 1657512531:0;yare lib32-atk lib32-attr lib32-brotli lib32-bzip2 lib32-cairo lib32-curl lib32-dbus lib32-e2fsprogs lib32-expat lib32-flac lib32-fontconfig lib32-freetype2 lib32-fribidi lib32-gamemode lib32-gcc-libs lib32-gdk-pixbuf2 lib32-glib2 lib32-glibc lib32-gmp lib32-gnutls lib32-harfbuzz lib32-icu lib32-libcap lib32-libcups lib32-libdatrie lib32-libdrm lib32-libelf lib32-libffi lib32-libgcrypt lib32-libglvnd lib32-libgpg-error lib32-libidn2 lib32-libjpeg-turbo lib32-libldap lib32-libogg lib32-libpciaccess lib32-libpng lib32-libpsl lib32-libsndfile lib32-libssh2 lib32-libtasn1 lib32-libthai lib32-libunistring lib32-libunwind lib32-libvorbis lib32-libvpx1.3 lib32-libx11 lib32-libxcomposite lib32-libxcrypt lib32-libxcursor lib32-libxdamage lib32-libxdmcp lib32-libxext lib32-libxfixes lib32-libxft lib32-libxi lib32-libxinerama lib32-libxml2 lib32-libxrandr lib32-libxrender lib32-libxshmfence lib32-libxxf86vm lib32-llvm-libs lib32-lm_sensors lib32-mesa lib32-ncurses lib32-nettle lib32-nvidia-utils lib32-openssl lib32-opus lib32-p11-kit lib32-pam lib32-pango lib32-pcre lib32-pixman lib32-readline lib32-systemd lib32-util-linux lib32-vulkan-icd-loader lib32-wayland lib32-xz lib32-zlib lib32-zstd lib32-keyutils lib32-krb5 lib32-libtiff lib32-libxau lib32-libxcb
+: 1657512546:0;yare lib32-atk lib32-attr lib32-brotli lib32-bzip2 lib32-cairo lib32-curl lib32-dbus lib32-e2fsprogs lib32-expat lib32-flac lib32-fontconfig lib32-freetype2 lib32-fribidi lib32-gamemode lib32-gcc-libs lib32-gdk-pixbuf2 lib32-glib2 lib32-glibc lib32-gmp lib32-gnutls lib32-harfbuzz lib32-icu lib32-libcap lib32-libcups lib32-libdatrie lib32-libdrm lib32-libelf lib32-libffi lib32-libgcrypt lib32-libglvnd lib32-libgpg-error lib32-libidn2 lib32-libjpeg-turbo lib32-libldap lib32-libogg lib32-libpciaccess lib32-libpng lib32-libpsl lib32-libsndfile lib32-libssh2 lib32-libtasn1 lib32-libthai lib32-libunistring lib32-libunwind lib32-libvorbis lib32-libvpx1.3 lib32-libx11 lib32-libxcomposite lib32-libxcrypt lib32-libxcursor lib32-libxdamage lib32-libxdmcp lib32-libxext lib32-libxfixes lib32-libxft lib32-libxi lib32-libxinerama lib32-libxml2 lib32-libxrandr lib32-libxrender lib32-libxshmfence lib32-libxxf86vm lib32-llvm-libs lib32-lm_sensors lib32-mesa lib32-ncurses lib32-nettle lib32-nvidia-utils lib32-openssl lib32-opus lib32-p11-kit lib32-pam lib32-pango lib32-pcre lib32-pixman lib32-readline lib32-systemd lib32-util-linux lib32-vulkan-icd-loader lib32-wayland lib32-xz lib32-zlib lib32-zstd lib32-keyutils lib32-krb5 lib32-libtiff lib32-libxau lib32-libxcb lib32-libtirpc
+: 1657512556:0;pacman -Q | grep "lib32"
+: 1657512567:0;neofetch
+: 1657512591:0;sudo micro /etc/pacman.conf
+: 1657512626:0;sudo micro /etc/pacman.d/mirrorlist
+: 1657512631:0;sudo micro /etc/pacman.conf
+: 1657512645:0;yay
+: 1657512653:0;sudo micro /etc/pacman.conf
+: 1657512662:0;yay
+: 1657513294:0;sudo micro /etc/pacman.conf
+: 1657513321:0;sudo micro /etc/pacman.d/mirrorlist
+: 1657513339:0;yain firefox
+: 1657513361:0;exit
+: 1657513496:0;spt
+: 1657513627:0;yain pcsx2
+: 1657513643:0;yare gtk2
+: 1657513657:0;yare wireshark-gtk2
+: 1657513662:0;yare calf
+: 1657513666:0;exit
+: 1657515777:0;nvidia-smi
+: 1657515798:0;prime-run brave
+: 1657515812:0;nvidia-smi
+: 1657515937:0;brave
+: 1657515962:0;nvidia-smi
+: 1657516092:0;prime-run osu-lazer
+: 1657516156:0;prime-run brave
+: 1657516681:0;dig
+: 1657516741:0;yay
+: 1657516794:0;dig
+: 1657521688:0;cd code
+: 1657521707:0;composer create-project codeigniter4/appstarter UAS-201111028_1
+: 1657521798:0;> composer require myth/auth
+: 1657544346:0;yain flatpak
+: 1657544395:0;flatpak install discord
+: 1657544422:0;yarem flatpak
+: 1657544430:0;yain snapd
+: 1657544455:0;yain snap
+: 1657544733:0;> composer require myth/auth
+: 1657544739:0;composer require myth/auth
+: 1657544854:0;php spark serve
+: 1657544864:0;sh ./phpmyadmin.sh
+: 1657544872:0;neofetch
+: 1657545271:0;speedtest
+: 1657545784:0;composer require myth/auth
+: 1657546797:0;spt
+: 1657546892:0;code code/UAS-201111028-1
+: 1657547078:0;cd ..
+: 1657547087:0;gcl https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git
+: 1657547159:0;composer require myth/auth
+: 1657547375:0;spt
+: 1657547541:0;yain discord_arch_electron_wayland
+: 1657547784:0;yain discord_arch_electron
+: 1657548033:0;yain webcord
+: 1657548095:0;sp
+: 1657548096:0;spt
+: 1657548132:0;yarem discord_arch_electron
+: 1657548137:0;yay -c
+: 1657548792:0;yain discord-canary
+: 1657549402:0;alsaamixer
+: 1657549409:0;alsamixer
+: 1657553907:0;flameshot
+: 1657557438:0;systemctl stop --user spotifyd.service
+: 1657557441:0;neofetch
+: 1657599631:0;yain flatpak
+: 1657599964:0;flatpak install discord
+: 1657600281:0;yare webcord
+: 1657600289:0;yare discord-canary
+: 1657600292:0;yay -c
+: 1657600299:0;clear
+: 1657600828:0;flatpak help
+: 1657600831:0;flatpak --help
+: 1657600886:0;flatpak list | grep -i nvidia
+: 1657600907:0;flatpak uninstall --unused\
+
+: 1657600916:0;flatpak install discord
+: 1657601354:0;yay
+: 1657601563:0;flatpak install zoom
+: 1657601646:0;clear
+: 1657601649:0;neofetch
+: 1657601657:0;yay -c
+: 1657601664:0;pacman -Q | grep "lib32"
+: 1657601667:0;pacman -Q | grep "lib"
+: 1657601678:0;yare kio
+: 1657601708:0;yare partitionmanager
+: 1657601712:0;yay -c
+: 1657601723:0;yare kio-extras
+: 1657601751:0;yare baloo
+: 1657601763:0;yay
+: 1657641451:0;spt
+: 1657641629:0;neofetch
+: 1657641643:0;yain cutefish
+: 1657641726:0;killall latte
+: 1657641730:0;killall latte-dock
+: 1657641756:0;spt
+: 1657641776:0;nmcli
+: 1657641786:0;exit
+: 1657641908:0;spt
+: 1657641918:0;reboot
+: 1657641997:0;spt
+: 1657642016:0;systemctl restart --user spotifyd.service
+: 1657642017:0;spt
+: 1657642048:0;flatpak install zoom
+: 1657642067:0;yay
+: 1657642159:0;yarem cutefish
+: 1657642171:0;yare cutefish
+: 1657642189:0;yare fishui
+: 1657642193:0;yay -c
+: 1657642292:0;yare zoom
+: 1657642298:0;yay -c
+: 1657642774:0;mc .var/app/us.zoom.Zoom/config/zoomus.conf
+: 1657642812:0;flatpak run os.zoom.Zoom
+: 1657642816:0;flatpak run zoom
+: 1657642837:0;flatpak install discord
+: 1657643075:0;mc ~/.config/user-tmpfiles.d/discord-rpc.conf
+: 1657643100:0;touch ~/.config/user-tmpfiles.d/discord-rpc.conf
+: 1657643109:0;nano ~/.config/user-tmpfiles.d/discord-rpc.conf
+: 1657643141:0;mkdir ~/.config/user-tmpfiles.d/
+: 1657643148:0;touch ~/.config/user-tmpfiles.d/discord-rpc.conf
+: 1657643151:0;mc ~/.config/user-tmpfiles.d/discord-rpc.conf
+: 1657643165:0;systemctl --user enable systemd-tmpfiles-setup.service
+: 1657643172:0;systemctl --user start systemd-tmpfiles-setup.service
+: 1657680909:0;flatpak install plex
+: 1657682293:0;yain microsoft-edge-beta
+: 1657688608:0;gcl https://github.com/Andy-Ra/Uas-Multilevel-Login-with-CI-4.git
+: 1657688636:0;code Uas-Multilevel-Login-with-CI-4
+: 1657688669:0;php spark serve
+: 1657688803:0;cd Uas-Multilevel-Login-with-CI-4
+: 1657688806:0;php spark serve
+: 1657689477:0;turecolot
+: 1657689486:0;trueco
+: 1657689602:0;php spark serve
+: 1657689632:0;sh ./phpmyadmin.sh
+: 1657692153:0;sudo dolphin
+: 1657692162:0;cd code
+: 1657692166:0;cd startbootstrap-sb-admin-2
+: 1657692187:0;sudo cp css /srv/http
+: 1657692192:0;sudo cp -r css /srv/http
+: 1657697543:0;php spark serve
+: 1657763513:0;sh ./phpmyadmin.sh
+: 1657775307:0;poweroff
+: 1657778057:0;sh ./phpmyadmin.sh
+: 1657778190:0;yay
+: 1657778205:0;clear
+: 1657778215:0;cd code/UAS-201111028
+: 1657778218:0;php spark serve
+: 1657779383:0;ip a
+: 1657779425:0;sudo ufw status
+: 1657813951:0;yay
+: 1657814562:0;systemctl restart reflector.service
+: 1657814588:0;yay
+: 1657814624:0;yain archlinux-keyring
+: 1657814636:0;systemctl restart reflector.service
+: 1657814660:0;yain archlinux-keyring
+: 1657814667:0;yay
+: 1657814675:0;sudo micro /etc/pacman.d/mirrorlist
+: 1657814685:0;yay
+: 1657814701:0;yain archlinux-keyring
+: 1657814707:0;yay
+: 1657814744:0;sudo micro /etc/xdg
+: 1657814748:0;sudo micro /etc/xdg/reflector/reflector.conf
+: 1657814768:0;systemctl restart reflector.service
+: 1657816532:0;yay
+: 1657817400:0;reboot
+: 1657826461:0;spt
+: 1657826477:0;systemctl restart --user spotifyd.service
+: 1657826478:0;spt
+: 1657880410:0;yay
+: 1657886918:0;cd code
+: 1657886921:0;gcl https://github.com/bachors/Cek-NIK-KTP.git
+: 1657886939:0;sudo mv Cek-NIK-KTP /srv/http
+: 1657886949:0;cd /srv/http
+: 1657886955:0;sh ./phpmyadmin.sh
+: 1657886957:0;cd
+: 1657886959:0;sh ./phpmyadmin.sh
+: 1657886985:0;cd /srv/http
+: 1657886989:0;cd Cek-NIK-KTP
+: 1657887002:0;php data-kpu.php
+: 1657887043:0;ls
+: 1657887053:0;cat README.md
+: 1657887067:0;cat data-kpu.php
+: 1657887108:0;cat example.php
+: 1657887114:0;php example.php
+: 1657887133:0;sudo micro data-kpu.php
+: 1657887157:0;sudo micro example.php
+: 1657887177:0;php example.php
+: 1657887183:0;sudo micro data-kpu.php
+: 1657887211:0;sudo micro example.php
+: 1657887215:0;php example.php
+: 1657887271:0;cd ~/code
+: 1657887274:0;gcl https://github.com/namdevel/cek-nik.git
+: 1657887499:0;cd cek-nik/
+: 1657887507:0;mc example.php
+: 1657887529:0;php example.php
+: 1657887838:0;cd ..
+: 1657887840:0;git clone https://github.com/caturmahdialfurqon/Cek-Nik-Validator-EKTP.git
+: 1657887852:0;cd Cek-Nik-Validator-EKTP
+: 1657887862:0;php NIK.php
+: 1657888336:0;cd code
+: 1657888349:0;cd Cek-Nik-Validator-EKTP
+: 1657888359:0;cat database.php
+: 1657888371:0;cd ..
+: 1657888375:0;cd cek-nik/
+: 1657888382:0;cat nik.class.php
+: 1657888678:0;yay
+: 1657888729:0;yarem microsoft-edge-beta-bin
+: 1657984900:0;spt
+: 1658039037:0;yay
+: 1658047528:0;adb devices
+: 1658056673:0;yay
+: 1658059286:0;adb devices
+: 1658059571:0;yay
+: 1658060384:0;poweroff
+: 1658148289:0;pasw
+: 1658148291:0;yay
+: 1658148666:0;gzip --version
+: 1658149385:0;clear
+: 1658149393:0;yay
+: 1658151937:0;adb devices
+: 1658244569:0;free -h
+: 1658247894:0;cd code
+: 1658247952:0;cd ../AndroidStudioProjects/Praktikum/UAS/FIRGO/
+: 1658247954:0;ls
+: 1658247998:0;git commit -m "first commit and the last one"
+: 1658248006:0;git branch -M main
+: 1658248024:0;git remote add origin https://github.com/haypp/FIRGO.git
+: 1658248031:0;git push -u origin main
+: 1658248115:0;yain github-desktop
+: 1658248403:0;cd
+: 1658248507:0;free -h
+: 1658279349:0;yay
+: 1658288007:0;adb devices
+: 1658288122:0;adb kill-server
+: 1658288123:0;adb devices
+: 1658288129:0;adb kill-server
+: 1658289083:0;adb -d shell "run-as com.reyjunaaf.firgo ls /data/data/com.reyjunaaf.firgo/databases"
+: 1658289088:0;adb devices
+: 1658289113:0;adb kill-server
+: 1658289154:0;adb devices
+: 1658289157:0;adb -d shell "run-as com.reyjunaaf.firgo ls /data/data/com.reyjunaaf.firgo/databases"
+: 1658289171:0;adb shell "run-as com.reyjunaaf.firgo ls /data/data/com.reyjunaaf.firgo/databases"
+: 1658289272:0;adb shell "run-as com.reyjunaaf.firgo ls /data/data/com.reyjunaaf.firgo/databases/money.db > /sdcard/money.db"
+: 1658289289:0;adb kill-server
+: 1658289311:0;adb devices
+: 1658289313:0;adb shell "run-as com.reyjunaaf.firgo ls /data/data/com.reyjunaaf.firgo/databases/money.db > /sdcard/money.db"
+: 1658289333:0;adb pull /sdcard/money.db
+: 1658289336:0;cd
+: 1658299453:0;sh ./phpmyadmin.sh
+: 1658299594:0;cp money.db money.db.sqlite
+: 1658584788:0;yay
+: 1658588303:0;yain boabob
+: 1658588716:0;sudo rm -rf /var/cache/pacman
+: 1658588765:0;sudo rm -rf /usr/share/wordlists
+: 1658588942:0;yain epiphany
+: 1658589311:0;flatpak install flathub org.gnome.Epiphany
+: 1658590407:0;yarem epiphany
+: 1658594443:0;qemu
+: 1658595011:0;yain qemu-base
+: 1658595020:0;yain qemu-full
+: 1658595026:0;yain qemu-desktop
+: 1658595037:0;yain qemu-basw
+: 1658595039:0;yain qemu-base
+: 1658595066:0;yain virt-manager
+: 1658595119:0;yain libvirt
+: 1658595199:0;yain freedownloadmanager
+: 1658642954:0;yay
+: 1658643965:0;systemctl status systemd-networkd.service
+: 1658644004:0;ip a
+: 1658644168:0;cd /etc/systemd/network/
+: 1658644172:0;ls
+: 1658644188:0;sudo micro mybridge.netdev
+: 1658644236:0;sudo systemctl restart systemd-networkd.ser
+: 1658644239:0;sudo systemctl restart systemd-networkd.service
+: 1658644245:0;ip a
+: 1658644292:0;sudo micro bind.network
+: 1658644304:0;ip a
+: 1658644325:0;sudo micro mybridge.network
+: 1658644334:0;sudo systemctl restart systemd-networkd.service
+: 1658644336:0;ip a
+: 1658644491:0;systemctl stop systemd-networkd.service
+: 1658644498:0;ip a
+: 1658644502:0;systemctl stop systemd-networkd.service
+: 1658644511:0;systemctl stop systemd-networkd.socket
+: 1658644514:0;systemctl stop systemd-networkd.service
+: 1658644519:0;ip a
+: 1658644726:0;sudo virsh net-list --all
+: 1658644758:0;sudo virsh net-start default
+: 1658644760:0;sudo virsh net-list --all
+: 1658653634:0;yain deja-dup
+: 1658653780:0;yare deja-dup
+: 1658653786:0;yarem deja-dup
+: 1658653802:0;yain gvfs
+: 1658653813:0;yay
+: 1658653819:0;exit
+: 1658653894:0;yain chezmoi
+: 1658653954:0;su\
+cd /\
+sh -c "$(curl -fsLS chezmoi.io/get)"\
+exit
+: 1658654063:0;chezmoi init https://github.com/haypp/dotfiles.git
+: 1658654142:0;chezmoi add .zshrc
+: 1658654161:0;chezmoi cd
+: 1658654164:0;ls
+: 1658654182:0;git add files
+: 1658654191:0;git add dot_zshrc
+: 1658654215:0;git commit -m "initial commit"
+: 1658654219:0;git push
+: 1658654397:0;chezmoi add gimp
+: 1658654401:0;cd
+: 1658654411:0;cd config
+: 1658654416:0;cd .config
+: 1658654430:0;rm -rf microsoft-edge-beta
+: 1658654433:0;ls
+: 1658654501:0;chezmoi add zsh
